@@ -1,0 +1,1001 @@
+,status,bed,bath,acre_lot,city,state,zip_code,house_size,prev_sold_date,price
+73685,for_sale,4.0,3.0,0.34,Billerica,Massachusetts,1862.0,2752.0,,649900.0
+97313,for_sale,,,11.78,Winchendon,Massachusetts,1475.0,,,140000.0
+34584,for_sale,5.0,5.0,2.0,Williamsburg,Massachusetts,1096.0,4476.0,2009-06-30,1290000.0
+62270,for_sale,,,2.4,North Adams,Massachusetts,1247.0,,,125000.0
+90011,for_sale,3.0,1.0,3.06,Oakham,Massachusetts,1068.0,864.0,2002-04-12,300000.0
+60002,for_sale,6.0,2.0,0.11,Springfield,Massachusetts,1104.0,2016.0,2006-11-21,259900.0
+85871,for_sale,2.0,1.0,,Westborough,Massachusetts,1581.0,1103.0,2021-04-09,237500.0
+93621,for_sale,,,1.27,Belchertown,Massachusetts,1007.0,,,95000.0
+66080,for_sale,,,3.3,Pittsfield,Massachusetts,1201.0,,,149000.0
+39104,for_sale,4.0,1.0,0.64,Longmeadow,Massachusetts,1028.0,1296.0,2017-06-23,329000.0
+75333,for_sale,3.0,1.0,0.34,Easthampton,Massachusetts,1027.0,1248.0,2012-01-06,350000.0
+91685,for_sale,,,2.65,Brimfield,Massachusetts,1010.0,,2006-07-21,49500.0
+98124,for_sale,,,1.0,Webster,Massachusetts,1570.0,,,89500.0
+98779,for_sale,2.0,2.0,0.23,Auburn,Massachusetts,1501.0,1000.0,2008-08-04,309900.0
+84923,for_sale,2.0,3.0,,Dudley,Massachusetts,1571.0,2150.0,,479000.0
+79879,for_sale,2.0,2.0,,Weston,Massachusetts,2493.0,1359.0,2005-01-06,680000.0
+65829,for_sale,,,0.46,Pittsfield,Massachusetts,1201.0,,1996-11-07,274500.0
+97011,for_sale,,,2.02,Dudley,Massachusetts,1571.0,,,70000.0
+98810,for_sale,6.0,6.0,1.12,Shrewsbury,Massachusetts,1545.0,4783.0,,875000.0
+75190,for_sale,,,6.75,Chester,Massachusetts,1011.0,,,40000.0
+78379,for_sale,4.0,2.0,0.06,Pepperell,Massachusetts,1463.0,2457.0,2003-08-11,489900.0
+44601,for_sale,4.0,3.0,0.24,Holyoke,Massachusetts,1040.0,2115.0,,279000.0
+92020,for_sale,10.0,4.0,0.11,Worcester,Massachusetts,1604.0,3290.0,2006-05-25,650000.0
+74354,for_sale,,,0.8,Chicopee,Massachusetts,1020.0,,,50000.0
+56062,for_sale,5.0,2.0,0.29,Pittsfield,Massachusetts,1201.0,2170.0,1992-11-16,459000.0
+83935,for_sale,,,24.0,Pelham,Massachusetts,1002.0,,,449999.0
+76047,for_sale,,,0.22,North Adams,Massachusetts,1247.0,,,24900.0
+97596,for_sale,,,23.0,Harvard,Massachusetts,1451.0,,,1200000.0
+46391,for_sale,3.0,2.0,1.13,Westfield,Massachusetts,1085.0,2448.0,2004-10-29,439900.0
+32949,for_sale,6.0,4.0,0.16,Springfield,Massachusetts,1109.0,2160.0,,309900.0
+63604,for_sale,5.0,3.0,19.85,Great Barrington,Massachusetts,1230.0,7000.0,2005-08-29,2750000.0
+82378,for_sale,3.0,1.0,1.06,Sterling,Massachusetts,1564.0,825.0,2007-01-11,340000.0
+65526,for_sale,3.0,2.0,0.21,Pittsfield,Massachusetts,1201.0,1230.0,2008-08-11,165000.0
+53017,for_sale,3.0,1.0,0.21,West Springfield,Massachusetts,1089.0,1588.0,2006-03-31,324900.0
+85374,for_sale,3.0,1.0,0.22,Webster,Massachusetts,1570.0,1720.0,,329000.0
+65752,for_sale,5.0,3.0,0.15,Pittsfield,Massachusetts,1201.0,2549.0,1997-12-01,225000.0
+86041,for_sale,4.0,2.0,1.34,Acton,Massachusetts,1720.0,1604.0,,599000.0
+66618,for_sale,,,4.9,Becket,Massachusetts,1223.0,,,50000.0
+80030,for_sale,2.0,1.0,0.07,Waltham,Massachusetts,2451.0,1049.0,1993-12-31,439900.0
+69232,for_sale,3.0,2.0,0.33,Montague,Massachusetts,1351.0,1770.0,2009-06-25,266000.0
+86592,for_sale,4.0,5.0,1.36,Southborough,Massachusetts,1772.0,4261.0,,1395000.0
+58104,for_sale,5.0,4.0,,Lenox,Massachusetts,1240.0,3500.0,,889000.0
+97406,for_sale,,,13.3,Ashburnham,Massachusetts,1430.0,,,130000.0
+63052,for_sale,,,3.72,Egremont,Massachusetts,1258.0,,,79000.0
+92834,for_sale,,,3.0,Hopkinton,Massachusetts,1746.0,,,149900.0
+98832,for_sale,,,75.52,Paxton,Massachusetts,1612.0,,,559900.0
+93933,for_sale,2.0,1.0,,Attleboro,Massachusetts,2703.0,850.0,,212900.0
+75474,for_sale,,,1.12,Hatfield,Massachusetts,1088.0,,,159900.0
+91476,for_sale,4.0,4.0,0.52,Medway,Massachusetts,2053.0,3697.0,2006-05-16,929900.0
+87592,for_sale,4.0,4.0,0.11,Southbridge,Massachusetts,1550.0,3639.0,,349000.0
+75431,for_sale,,,0.71,Erving,Massachusetts,1344.0,,,69500.0
+71545,for_sale,3.0,2.0,1.0,Chester,Massachusetts,1011.0,1272.0,,225000.0
+46274,for_sale,4.0,4.0,0.23,Chicopee,Massachusetts,1013.0,1764.0,,359000.0
+66198,for_sale,,,0.31,Pittsfield,Massachusetts,1201.0,,,27500.0
+98105,for_sale,,,3.61,Sturbridge,Massachusetts,1566.0,,,74900.0
+66580,for_sale,11.0,6.0,85.0,Sheffield,Massachusetts,1257.0,5850.0,,11890000.0
+65826,for_sale,,,0.46,Pittsfield,Massachusetts,1201.0,,,325000.0
+73008,for_sale,3.0,3.0,1.84,Sterling,Massachusetts,1564.0,2665.0,,1050000.0
+54495,for_sale,,,5.11,Peru,Massachusetts,1235.0,,,39000.0
+58835,for_sale,2.0,1.0,0.48,Egremont,Massachusetts,1230.0,1048.0,2002-09-10,350000.0
+73977,for_sale,3.0,3.0,3.04,Templeton,Massachusetts,1468.0,1632.0,1998-05-15,499900.0
+96669,for_sale,5.0,3.0,2.5,Seekonk,Massachusetts,2771.0,3088.0,2004-07-29,699000.0
+76571,for_sale,2.0,,0.34,Ashburnham,Massachusetts,1430.0,482.0,,52000.0
+65599,for_sale,3.0,2.0,0.3,Pittsfield,Massachusetts,1201.0,1260.0,1999-01-29,250000.0
+70683,for_sale,5.0,3.0,2.26,South Hadley,Massachusetts,1075.0,3042.0,,519900.0
+69796,for_sale,3.0,3.0,0.43,Adams,Massachusetts,1220.0,2360.0,,165000.0
+27942,for_sale,2.0,2.0,0.05,Chicopee,Massachusetts,1013.0,1200.0,2002-06-12,275000.0
+58213,for_sale,6.0,2.0,0.57,Hinsdale,Massachusetts,1235.0,2979.0,1993-06-01,109900.0
+80781,for_sale,2.0,3.0,,Framingham,Massachusetts,1701.0,2115.0,2019-05-30,719000.0
+74504,for_sale,,,0.98,Springfield,Massachusetts,1101.0,,,100000.0
+68093,for_sale,,,2.11,Monson,Massachusetts,1057.0,,,89000.0
+28923,for_sale,3.0,2.0,10.21,Cheshire,Massachusetts,1225.0,1248.0,,421190.0
+73203,for_sale,3.0,2.0,0.52,Leominster,Massachusetts,1453.0,2484.0,2004-03-26,439900.0
+65875,for_sale,,,3.5,Monterey,Massachusetts,1245.0,,,95000.0
+63050,for_sale,,,57.0,Sheffield,Massachusetts,1257.0,,2003-06-16,549500.0
+73868,for_sale,1.0,2.0,,Northampton,Massachusetts,1060.0,894.0,,325000.0
+99405,for_sale,,,2.03,Sutton,Massachusetts,1590.0,,,179000.0
+75844,for_sale,3.0,3.0,1.01,Westminster,Massachusetts,1473.0,4274.0,,799900.0
+54271,for_sale,4.0,3.0,,Great Barrington,Massachusetts,1230.0,4144.0,2020-07-01,1250000.0
+52098,for_sale,2.0,2.0,,South Hadley,Massachusetts,1075.0,1120.0,,245200.0
+88870,for_sale,4.0,2.0,0.23,Worcester,Massachusetts,1604.0,1768.0,2004-07-01,399900.0
+46622,for_sale,2.0,1.0,0.19,Springfield,Massachusetts,1118.0,1024.0,2016-02-26,239000.0
+70932,for_sale,,,5.3,Dalton,Massachusetts,1226.0,,,79900.0
+61141,for_sale,1.0,1.0,,Easthampton,Massachusetts,1027.0,759.0,,365000.0
+87718,for_sale,,,2.0,Phillipston,Massachusetts,1331.0,,,45000.0
+29050,for_sale,6.0,4.0,0.93,Easthampton,Massachusetts,1027.0,3845.0,,549900.0
+97716,for_sale,4.0,4.0,1.0,Boylston,Massachusetts,1505.0,3295.0,,1295000.0
+68780,for_sale,,,0.8,Wilbraham,Massachusetts,1095.0,,,14800.0
+84353,for_sale,4.0,2.0,0.25,Southbridge,Massachusetts,1550.0,2172.0,,295000.0
+98307,for_sale,,,0.92,Leicester,Massachusetts,1611.0,,,125000.0
+54386,for_sale,,,15.56,Cheshire,Massachusetts,1225.0,,,95000.0
+48401,for_sale,4.0,3.0,0.46,Amherst,Massachusetts,1002.0,2143.0,1988-06-10,499900.0
+75969,for_sale,,,2.0,Clarksburg,Massachusetts,1247.0,,,54900.0
+80800,for_sale,3.0,4.0,0.48,Billerica,Massachusetts,1821.0,1400.0,,749900.0
+84629,for_sale,3.0,3.0,0.05,Southbridge,Massachusetts,1550.0,1360.0,,229900.0
+65653,for_sale,5.0,4.0,0.9,Pittsfield,Massachusetts,1201.0,3700.0,,699000.0
+34566,for_sale,3.0,2.0,1.21,Hatfield,Massachusetts,1088.0,1062.0,,329000.0
+98123,for_sale,,,7.01,Leicester,Massachusetts,1524.0,,,249000.0
+84715,for_sale,7.0,5.0,5.53,Dudley,Massachusetts,1571.0,4230.0,,749900.0
+37771,for_sale,2.0,1.0,0.23,Wales,Massachusetts,1081.0,750.0,,190000.0
+94761,for_sale,2.0,2.0,,North Attleboro,Massachusetts,2760.0,1656.0,2018-12-07,249900.0
+75094,for_sale,,,0.17,Northampton,Massachusetts,1060.0,,,160000.0
+64042,for_sale,3.0,2.0,2.0,Alford,Massachusetts,1230.0,2328.0,2003-07-25,625000.0
+75809,for_sale,3.0,4.0,0.34,Winchendon,Massachusetts,1475.0,2160.0,,579900.0
+79922,for_sale,3.0,4.0,0.89,Billerica,Massachusetts,1821.0,2578.0,,879900.0
+63299,for_sale,,,0.51,Tolland,Massachusetts,1034.0,,,87500.0
+76009,for_sale,,,10.0,North Adams,Massachusetts,1247.0,,,100000.0
+73039,for_sale,,,0.09,Fitchburg,Massachusetts,1420.0,2862.0,,179900.0
+43940,for_sale,4.0,1.0,0.1,Springfield,Massachusetts,1107.0,1410.0,1989-03-10,199919.0
+74344,for_sale,,,3.0,Goshen,Massachusetts,1038.0,,,56500.0
+98088,for_sale,,,1.5,Shrewsbury,Massachusetts,1545.0,,1976-12-06,295000.0
+96944,for_sale,4.0,3.0,0.37,Milford,Massachusetts,1757.0,2255.0,1994-06-28,649900.0
+81703,for_sale,,,4.61,Wilbraham,Massachusetts,1095.0,,,280000.0
+63025,for_sale,,,2.7,Egremont,Massachusetts,1230.0,,1988-09-12,99900.0
+84321,for_sale,,,3.35,Orange,Massachusetts,1364.0,,,109900.0
+88254,for_sale,4.0,3.0,4.15,Stow,Massachusetts,1775.0,3250.0,,850000.0
+81395,for_sale,6.0,4.0,0.4,Blackstone,Massachusetts,1504.0,4200.0,,999000.0
+66157,for_sale,8.0,3.0,0.13,Pittsfield,Massachusetts,1201.0,2996.0,2007-05-15,259000.0
+76002,for_sale,,,1.76,Clarksburg,Massachusetts,1247.0,,,39900.0
+97684,for_sale,,,12.0,Ware,Massachusetts,1082.0,,,73000.0
+95891,for_sale,5.0,5.0,0.48,Wellesley,Massachusetts,2481.0,6164.0,2008-05-16,2995000.0
+63105,for_sale,,,0.92,Great Barrington,Massachusetts,1230.0,,,129000.0
+88144,for_sale,2.0,3.0,53.42,Upton,Massachusetts,1568.0,2224.0,2021-04-06,609900.0
+43559,for_sale,6.0,2.0,0.15,Springfield,Massachusetts,1151.0,2886.0,,280000.0
+66603,for_sale,,,5.7,Monterey,Massachusetts,1245.0,,,125000.0
+68752,for_sale,,,0.58,East Longmeadow,Massachusetts,1028.0,,,115000.0
+63545,for_sale,3.0,3.0,0.53,Lenox,Massachusetts,1240.0,2132.0,,420000.0
+83676,for_sale,4.0,3.0,0.46,Framingham,Massachusetts,1701.0,2762.0,2008-02-28,849500.0
+66371,for_sale,4.0,2.0,0.34,Great Barrington,Massachusetts,1230.0,2096.0,,495000.0
+87125,for_sale,9.0,3.0,0.13,Worcester,Massachusetts,1610.0,3611.0,,499000.0
+85998,for_sale,4.0,2.0,0.2,Shrewsbury,Massachusetts,1545.0,2640.0,1998-09-28,599000.0
+99288,for_sale,10.0,6.0,0.57,Charlton,Massachusetts,1507.0,5208.0,,749000.0
+75187,for_sale,,,21.24,Chester,Massachusetts,1011.0,,,90000.0
+65763,for_sale,,,2.62,Lenox,Massachusetts,1240.0,,,65500.0
+85991,for_sale,4.0,2.0,0.37,Worcester,Massachusetts,1606.0,1914.0,,574900.0
+55457,for_sale,6.0,2.0,0.12,Pittsfield,Massachusetts,1201.0,2664.0,1980-04-01,209000.0
+98136,for_sale,,,1.38,Westminster,Massachusetts,1473.0,,,200000.0
+80134,for_sale,3.0,3.0,0.35,Winchester,Massachusetts,1890.0,2342.0,1981-07-01,939000.0
+52963,for_sale,3.0,2.0,0.25,Holyoke,Massachusetts,1040.0,1531.0,,265000.0
+92212,for_sale,4.0,2.0,0.29,Franklin,Massachusetts,2038.0,1950.0,,579000.0
+99859,for_sale,4.0,2.0,1.79,Boxborough,Massachusetts,1719.0,2018.0,1992-09-04,625000.0
+93582,for_sale,,,3.73,Palmer,Massachusetts,1069.0,,,199900.0
+79839,for_sale,4.0,3.0,0.51,Lexington,Massachusetts,2421.0,2361.0,2021-07-16,1399000.0
+97639,for_sale,,,2.02,Hardwick,Massachusetts,1037.0,,,50000.0
+52917,for_sale,4.0,2.0,1.1,North Adams,Massachusetts,1247.0,2379.0,,349000.0
+97579,for_sale,,,0.06,Leominster,Massachusetts,1453.0,,,99000.0
+71340,for_sale,3.0,1.0,0.21,Adams,Massachusetts,1220.0,1632.0,2008-05-07,170000.0
+84030,for_sale,5.0,2.0,0.34,Gardner,Massachusetts,1440.0,2430.0,,335000.0
+96145,for_sale,3.0,3.0,,Douglas,Massachusetts,1516.0,1705.0,,489900.0
+78203,for_sale,3.0,3.0,,Hudson,Massachusetts,1749.0,2864.0,,749900.0
+75256,for_sale,,,3.29,Blandford,Massachusetts,1008.0,,,53500.0
+81595,for_sale,2.0,2.0,,Grafton,Massachusetts,1560.0,1540.0,,349900.0
+80051,for_sale,3.0,1.0,0.46,Burlington,Massachusetts,1803.0,1128.0,,599900.0
+43286,for_sale,4.0,2.0,0.33,Spencer,Massachusetts,1562.0,1690.0,,290000.0
+94380,for_sale,3.0,3.0,0.46,Attleboro,Massachusetts,2703.0,2200.0,,779900.0
+98791,for_sale,2.0,3.0,,Uxbridge,Massachusetts,1569.0,2227.0,,498900.0
+36010,for_sale,4.0,4.0,0.91,South Hadley,Massachusetts,1075.0,2420.0,2012-10-09,547500.0
+67597,for_sale,,,3.34,Hinsdale,Massachusetts,1235.0,,,69000.0
+90953,for_sale,4.0,3.0,0.59,Oxford,Massachusetts,1540.0,1956.0,1992-08-28,399900.0
+66098,for_sale,,,5.0,Pittsfield,Massachusetts,1201.0,,,99900.0
+75873,for_sale,,,4.0,Cheshire,Massachusetts,1225.0,,,49000.0
+75890,for_sale,,,0.8,Williamstown,Massachusetts,1267.0,,,574450.0
+42958,for_sale,6.0,4.0,0.53,Spencer,Massachusetts,1562.0,4123.0,,675000.0
+79806,for_sale,4.0,3.0,0.34,Billerica,Massachusetts,1821.0,2371.0,1986-12-05,499900.0
+81330,for_sale,4.0,3.0,0.92,Bedford,Massachusetts,1730.0,2235.0,1980-04-30,829000.0
+77288,for_sale,2.0,2.0,,Hudson,Massachusetts,1749.0,1759.0,,865995.0
+34871,for_sale,3.0,1.0,0.21,Leicester,Massachusetts,1524.0,960.0,2004-05-27,315000.0
+65106,for_sale,2.0,2.0,0.18,Pittsfield,Massachusetts,1201.0,1455.0,1986-01-31,159000.0
+71035,for_sale,,,1.6,Pittsfield,Massachusetts,1201.0,,,1200000.0
+59765,for_sale,,,0.69,Hampden,Massachusetts,1036.0,,,67000.0
+66078,for_sale,8.0,2.0,0.22,Pittsfield,Massachusetts,1201.0,3278.0,1999-01-29,289000.0
+88586,for_sale,2.0,3.0,,Marlborough,Massachusetts,1752.0,2268.0,1996-05-13,379900.0
+82613,for_sale,5.0,5.0,1.7,Sudbury,Massachusetts,1776.0,5500.0,,2250000.0
+41949,for_sale,2.0,1.0,0.21,Otis,Massachusetts,1253.0,1092.0,,119900.0
+79963,for_sale,3.0,2.0,0.59,Woburn,Massachusetts,1801.0,1930.0,,779000.0
+29300,for_sale,3.0,1.0,0.26,West Springfield,Massachusetts,1089.0,1188.0,,249400.0
+63203,for_sale,4.0,2.0,0.07,Stockbridge,Massachusetts,1262.0,2120.0,,309900.0
+49547,for_sale,4.0,2.0,0.11,Holyoke,Massachusetts,1040.0,1989.0,1992-07-10,239900.0
+91675,for_sale,2.0,2.0,0.28,Holland,Massachusetts,1521.0,600.0,2008-09-30,135000.0
+63112,for_sale,,,4.87,Otis,Massachusetts,1253.0,,,55000.0
+28810,for_sale,4.0,8.0,12.1,Worthington,Massachusetts,1098.0,14240.0,2001-10-05,2995000.0
+65869,for_sale,,,15.0,New Marlborough,Massachusetts,1230.0,,,475000.0
+80684,for_sale,6.0,4.0,1.13,Billerica,Massachusetts,1862.0,3549.0,2007-07-13,929900.0
+28664,for_sale,11.0,8.0,20.0,New Marlboro,Massachusetts,1230.0,1106.0,,1495000.0
+80138,for_sale,4.0,2.0,0.27,Bedford,Massachusetts,1730.0,1432.0,,745000.0
+87405,for_sale,2.0,3.0,,Sudbury,Massachusetts,1776.0,1858.0,,867660.0
+65798,for_sale,,,10.05,Otis,Massachusetts,1253.0,,,70000.0
+87709,for_sale,,,4.0,Phillipston,Massachusetts,1331.0,,,60000.0
+96131,for_sale,3.0,3.0,0.92,Seekonk,Massachusetts,2771.0,3170.0,2009-09-15,749900.0
+98731,for_sale,4.0,2.0,0.6,Barre,Massachusetts,1005.0,1708.0,,369900.0
+97388,for_sale,,,248.24,Fitchburg,Massachusetts,1420.0,,,1150000.0
+54604,for_sale,,,,New Ashford,Massachusetts,1237.0,,,250000.0
+74359,for_sale,,,108.0,Ludlow,Massachusetts,1056.0,,,540000.0
+90952,for_sale,3.0,2.0,3.77,Northbridge,Massachusetts,1534.0,1728.0,1991-06-03,349900.0
+77744,for_sale,2.0,1.0,0.2,Gardner,Massachusetts,1440.0,1206.0,2002-11-15,199000.0
+34614,for_sale,18.0,12.0,0.29,Pittsfield,Massachusetts,1201.0,8428.0,,697000.0
+92580,for_sale,4.0,2.0,0.36,Plainville,Massachusetts,2762.0,1550.0,,449000.0
+80597,for_sale,4.0,4.0,0.25,Wellesley,Massachusetts,2481.0,2813.0,2004-07-27,1575000.0
+73419,for_sale,3.0,1.0,0.8,Bolton,Massachusetts,1740.0,1580.0,2005-08-08,469000.0
+37671,for_sale,4.0,3.0,0.65,Amherst,Massachusetts,1002.0,3465.0,2006-10-03,865000.0
+63586,for_sale,4.0,3.0,4.0,Richmond,Massachusetts,1254.0,5000.0,,749000.0
+29197,for_sale,5.0,2.0,0.54,Northampton,Massachusetts,1060.0,2359.0,,389900.0
+58237,for_sale,3.0,2.0,8.26,West Stockbridge,Massachusetts,1266.0,1984.0,1994-01-03,569000.0
+76865,for_sale,,,172.9,Phillipston,Massachusetts,1331.0,,,800000.0
+40638,for_sale,3.0,1.0,0.53,Hampden,Massachusetts,1036.0,1347.0,,175000.0
+90132,for_sale,4.0,3.0,1.86,Ashby,Massachusetts,1431.0,2175.0,2003-09-29,439000.0
+58358,for_sale,6.0,6.0,0.15,Pittsfield,Massachusetts,1201.0,3744.0,,235000.0
+69986,for_sale,,,178.0,Lanesborough,Massachusetts,1237.0,,,749900.0
+91010,for_sale,7.0,3.0,0.17,Worcester,Massachusetts,1604.0,4103.0,2006-07-31,579900.0
+73545,for_sale,7.0,5.0,0.32,Fitchburg,Massachusetts,1420.0,4220.0,,450000.0
+54575,for_sale,3.0,2.0,,Hancock,Massachusetts,1237.0,1571.0,2002-02-04,259900.0
+86727,for_sale,3.0,2.0,0.34,Maynard,Massachusetts,1754.0,1748.0,,499000.0
+86284,for_sale,2.0,1.0,,Westborough,Massachusetts,1581.0,720.0,,90000.0
+88850,for_sale,2.0,3.0,,Franklin,Massachusetts,2038.0,2389.0,,600000.0
+98127,for_sale,,,63.8,Webster,Massachusetts,1570.0,,,750000.0
+72564,for_sale,,,1.6,Florida,Massachusetts,1247.0,,,24900.0
+94169,for_sale,,,12.09,Bellingham,Massachusetts,2019.0,,2002-01-15,799900.0
+93500,for_sale,,,8.73,Brookfield,Massachusetts,1506.0,,,100000.0
+88087,for_sale,,,0.25,Winchendon,Massachusetts,1475.0,,,24900.0
+36507,for_sale,4.0,2.0,0.23,Ludlow,Massachusetts,1056.0,1420.0,1988-09-21,315000.0
+89642,for_sale,3.0,2.0,0.56,Spencer,Massachusetts,1562.0,1547.0,,599900.0
+94751,for_sale,,,0.11,Hopkinton,Massachusetts,1748.0,,,175000.0
+40888,for_sale,3.0,2.0,1.0,Ludlow,Massachusetts,1056.0,1300.0,,450000.0
+91668,for_sale,,,0.47,Monson,Massachusetts,1057.0,,,49900.0
+68567,for_sale,2.0,2.0,,Agawam,Massachusetts,1001.0,1056.0,2019-09-12,175000.0
+80852,for_sale,2.0,3.0,,Boxborough,Massachusetts,1719.0,2533.0,,984995.0
+83284,for_sale,6.0,4.0,0.2,Ashland,Massachusetts,1721.0,2500.0,,640000.0
+81559,for_sale,3.0,2.0,0.37,Lancaster,Massachusetts,1523.0,2207.0,1988-09-02,525000.0
+79142,for_sale,3.0,2.0,0.23,Framingham,Massachusetts,1702.0,1476.0,1987-02-01,529000.0
+35583,for_sale,8.0,4.0,0.16,Athol,Massachusetts,1331.0,5536.0,,429900.0
+42975,for_sale,4.0,2.0,1.0,Brimfield,Massachusetts,1010.0,1765.0,2003-11-26,129900.0
+96882,for_sale,3.0,2.0,1.0,Dover,Massachusetts,2030.0,2245.0,,925000.0
+65871,for_sale,,,2.3,Richmond,Massachusetts,1254.0,,,100000.0
+89207,for_sale,9.0,4.0,0.11,Worcester,Massachusetts,1604.0,4650.0,,539900.0
+52808,for_sale,4.0,6.0,34.0,Williamstown,Massachusetts,1267.0,7289.0,1999-11-12,3200000.0
+92904,for_sale,3.0,3.0,,Devens,Massachusetts,1434.0,2076.0,,720000.0
+85957,for_sale,4.0,3.0,0.38,Hopkinton,Massachusetts,1748.0,2124.0,1988-03-02,599900.0
+79743,for_sale,4.0,4.0,1.16,Lincoln,Massachusetts,1773.0,4515.0,1987-03-27,1390000.0
+65833,for_sale,,,1.7,Stockbridge,Massachusetts,1262.0,,,645000.0
+75691,for_sale,3.0,2.0,,Westminster,Massachusetts,1473.0,1332.0,2020-12-15,239000.0
+67832,for_sale,,,2.06,East Longmeadow,Massachusetts,1028.0,,,119900.0
+75021,for_sale,,,272.5,Russell,Massachusetts,1071.0,,,1200000.0
+82926,for_sale,4.0,1.0,0.21,Ashburnham,Massachusetts,1430.0,1235.0,2007-04-30,280000.0
+87584,for_sale,3.0,2.0,1.18,Southbridge,Massachusetts,1550.0,2007.0,2002-08-28,379900.0
+94033,for_sale,,,12.77,Acton,Massachusetts,1720.0,,,650000.0
+88863,for_sale,2.0,3.0,,Millis,Massachusetts,2054.0,2235.0,,877995.0
+81521,for_sale,2.0,2.0,0.69,Sturbridge,Massachusetts,1518.0,1297.0,1997-06-30,589000.0
+32961,for_sale,4.0,2.0,3.25,Ware,Massachusetts,1082.0,2200.0,1991-05-08,399000.0
+79970,for_sale,4.0,4.0,0.21,Waltham,Massachusetts,2453.0,3494.0,,1300000.0
+65821,for_sale,,,4.71,Great Barrington,Massachusetts,1230.0,,2002-05-03,199000.0
+43692,for_sale,2.0,2.0,,Enfield,Connecticut,6082.0,1893.0,,469900.0
+30378,for_sale,3.0,2.0,,Farmington,Connecticut,6032.0,1518.0,2016-04-15,259900.0
+32438,for_sale,3.0,3.0,0.77,Enfield,Connecticut,6082.0,2250.0,1998-08-31,349900.0
+59399,for_sale,3.0,2.0,,New Britain,Connecticut,6051.0,1392.0,2007-08-20,150000.0
+61526,for_sale,3.0,2.0,0.39,New Britain,Connecticut,6053.0,1094.0,,175000.0
+45182,for_sale,4.0,3.0,3.35,Barkhamsted,Connecticut,6063.0,2626.0,2022-01-04,556000.0
+47701,for_sale,4.0,4.0,1.0,Glastonbury,Connecticut,6033.0,2501.0,2002-06-18,575000.0
+60178,for_sale,3.0,2.0,0.17,West Hartford,Connecticut,6110.0,1266.0,2002-07-30,130000.0
+60842,for_sale,6.0,2.0,0.18,Hartford,Connecticut,6106.0,3264.0,,315000.0
+90657,for_sale,3.0,2.0,0.7,Woodstock,Connecticut,6281.0,1376.0,1989-01-31,319000.0
+42512,for_sale,,,1.01,Putnam,Connecticut,6260.0,,2007-09-07,50000.0
+30196,for_sale,4.0,3.0,1.34,Granby,Connecticut,6060.0,2967.0,2002-12-02,485000.0
+60716,for_sale,3.0,2.0,0.66,Glastonbury,Connecticut,6033.0,1494.0,2015-04-27,349900.0
+42319,for_sale,4.0,3.0,0.79,Suffield,Connecticut,6078.0,2491.0,1995-10-31,519900.0
+58896,for_sale,4.0,5.0,6.44,Salisbury,Connecticut,6039.0,3564.0,2008-07-24,2450000.0
+61937,for_sale,3.0,2.0,0.5,Cromwell,Connecticut,6416.0,1581.0,,299900.0
+51825,for_sale,3.0,3.0,,Vernon,Connecticut,6066.0,1303.0,2016-01-19,264900.0
+94190,for_sale,4.0,2.0,0.15,Sterling,Connecticut,6377.0,640.0,,150000.0
+41819,for_sale,,,0.76,Canton,Connecticut,6019.0,,2004-07-01,239000.0
+57630,for_sale,3.0,1.0,0.32,Torrington,Connecticut,6790.0,1571.0,2013-07-08,200000.0
+62135,for_sale,3.0,3.0,,Glastonbury,Connecticut,6033.0,1743.0,2014-09-12,355000.0
+51323,for_sale,3.0,5.0,0.52,Enfield,Connecticut,6082.0,2751.0,1989-09-22,450000.0
+45388,for_sale,3.0,2.0,0.33,Canton,Connecticut,6019.0,1324.0,2005-12-01,179900.0
+30815,for_sale,4.0,3.0,3.84,Avon,Connecticut,6001.0,3100.0,2013-12-20,895000.0
+45192,for_sale,,,0.43,Burlington,Connecticut,6013.0,,,68000.0
+81698,for_sale,,,150.59,Stafford,Connecticut,6076.0,,,799900.0
+47302,for_sale,9.0,4.0,0.23,Hartford,Connecticut,6112.0,4311.0,2003-06-02,295000.0
+56737,for_sale,2.0,2.0,,Harwinton,Connecticut,6791.0,1450.0,,315000.0
+45402,for_sale,3.0,3.0,0.86,Torrington,Connecticut,6790.0,1212.0,,279900.0
+43159,for_sale,4.0,3.0,3.49,Somers,Connecticut,6071.0,3937.0,2013-07-11,750000.0
+57681,for_sale,3.0,2.0,2.03,Bethlehem,Connecticut,6751.0,1349.0,2005-08-31,390900.0
+83949,for_sale,3.0,2.0,1.2,Mansfield,Connecticut,6250.0,1600.0,,294900.0
+29414,for_sale,4.0,3.0,2.98,Norfolk,Connecticut,6058.0,2755.0,2016-05-05,985000.0
+47440,for_sale,3.0,2.0,0.28,Windham,Connecticut,6226.0,1200.0,2021-01-07,199900.0
+84868,for_sale,5.0,5.0,9.2,Mansfield,Connecticut,6268.0,3461.0,,899000.0
+30720,for_sale,3.0,2.0,0.58,Simsbury,Connecticut,6070.0,1762.0,2019-02-04,379000.0
+61319,for_sale,2.0,1.0,0.34,Bloomfield,Connecticut,6002.0,1025.0,2020-06-10,160000.0
+61069,for_sale,3.0,4.0,3.38,Colchester,Connecticut,6415.0,2000.0,2009-03-19,375000.0
+60237,for_sale,2.0,2.0,,Glastonbury,Connecticut,6033.0,1152.0,,190000.0
+46888,for_sale,,,2.4,East Granby,Connecticut,6026.0,,,75000.0
+61644,for_sale,4.0,3.0,1.1,Marlborough,Connecticut,6447.0,2044.0,,459900.0
+30469,for_sale,4.0,4.0,3.26,Burlington,Connecticut,6013.0,3300.0,,699900.0
+59441,for_sale,,,0.63,Wethersfield,Connecticut,6109.0,,2017-06-15,145000.0
+59840,for_sale,3.0,1.0,0.17,East Hartford,Connecticut,6108.0,1372.0,2007-10-23,155000.0
+40890,for_sale,5.0,2.0,2.36,Chaplin,Connecticut,6235.0,1936.0,2007-03-19,279900.0
+48324,for_sale,4.0,3.0,0.77,Vernon,Connecticut,6066.0,2663.0,2015-05-26,399000.0
+60595,for_sale,3.0,3.0,0.4,Farmington,Connecticut,6032.0,1605.0,2018-06-26,325000.0
+50246,for_sale,,,1.85,Hartford,Connecticut,6120.0,,,230000.0
+84066,for_sale,3.0,4.0,4.9,Colchester,Connecticut,6420.0,2334.0,,579000.0
+60105,for_sale,4.0,2.0,0.53,Berlin,Connecticut,6037.0,1239.0,1996-11-27,289000.0
+45697,for_sale,4.0,3.0,2.0,New Hartford,Connecticut,6057.0,2459.0,2015-06-29,525000.0
+60395,for_sale,5.0,3.0,0.11,West Hartford,Connecticut,6119.0,2545.0,2000-07-17,399900.0
+61152,for_sale,5.0,3.0,0.2,New Britain,Connecticut,6051.0,2318.0,,180000.0
+62099,for_sale,2.0,1.0,0.72,East Hampton,Connecticut,6424.0,864.0,2012-09-11,175000.0
+94202,for_sale,,,0.95,Putnam,Connecticut,6260.0,,,79900.0
+60139,for_sale,6.0,3.0,0.35,New Britain,Connecticut,6051.0,2310.0,,149900.0
+42479,for_sale,3.0,2.0,0.59,Canton,Connecticut,6019.0,1678.0,2018-08-21,319900.0
+33015,for_sale,5.0,6.0,5.06,Glastonbury,Connecticut,6033.0,3390.0,2004-08-31,950000.0
+64339,for_sale,,,2.65,Canaan,Connecticut,6031.0,,,99900.0
+46097,for_sale,6.0,2.0,0.06,Torrington,Connecticut,6790.0,2362.0,2012-08-23,186900.0
+40000,for_sale,,,3.32,Brooklyn,Connecticut,6234.0,,,65000.0
+60964,for_sale,2.0,3.0,,Rocky Hill,Connecticut,6067.0,1630.0,2009-08-25,314900.0
+64338,for_sale,,,14.63,North Canaan,Connecticut,6018.0,,,175800.0
+30067,for_sale,3.0,1.0,1.06,Bristol,Connecticut,6010.0,1444.0,,175000.0
+38407,for_sale,4.0,3.0,1.02,Ellington,Connecticut,6029.0,2451.0,2012-04-27,339900.0
+58853,for_sale,,,57.0,Winchester,Connecticut,6098.0,,1999-03-16,430000.0
+61846,for_sale,4.0,3.0,0.44,Middletown,Connecticut,6457.0,2462.0,2021-11-12,389900.0
+48047,for_sale,3.0,1.0,0.28,Manchester,Connecticut,6042.0,1234.0,2002-03-28,164900.0
+61892,for_sale,2.0,1.0,0.24,Rocky Hill,Connecticut,6067.0,840.0,2005-09-02,199900.0
+30852,for_sale,4.0,4.0,0.32,Plainville,Connecticut,6062.0,3769.0,,560000.0
+50815,for_sale,3.0,3.0,1.92,Ellington,Connecticut,6029.0,2358.0,,424900.0
+66491,for_sale,,4.0,0.46,Salisbury,Connecticut,6039.0,3386.0,,749000.0
+48641,for_sale,3.0,2.0,1.5,Columbia,Connecticut,6237.0,1566.0,2007-07-03,294900.0
+59375,for_sale,,,0.46,Manchester,Connecticut,6040.0,,,69900.0
+59990,for_sale,3.0,1.0,0.23,Newington,Connecticut,6111.0,1110.0,2015-04-16,206000.0
+59661,for_sale,4.0,2.0,0.51,Glastonbury,Connecticut,6073.0,2382.0,2001-01-31,319900.0
+84425,for_sale,,,0.73,East Haddam,Connecticut,6423.0,,,105000.0
+57373,for_sale,2.0,1.0,0.69,Morris,Connecticut,6763.0,990.0,2014-04-30,237000.0
+61840,for_sale,3.0,4.0,0.35,West Hartford,Connecticut,6117.0,2016.0,2019-09-11,440000.0
+45359,for_sale,,,15.05,Barkhamsted,Connecticut,6063.0,,1992-06-22,115000.0
+49700,for_sale,3.0,2.0,0.14,Enfield,Connecticut,6082.0,1456.0,2020-08-27,295000.0
+40068,for_sale,4.0,3.0,1.86,Coventry,Connecticut,6238.0,2810.0,,575000.0
+45396,for_sale,3.0,2.0,0.44,New Hartford,Connecticut,6057.0,1491.0,2020-10-13,224550.0
+45796,for_sale,5.0,7.0,1.07,Avon,Connecticut,6001.0,5148.0,2019-07-08,1195000.0
+61530,for_sale,3.0,2.0,0.64,Glastonbury,Connecticut,6033.0,1636.0,,320000.0
+45644,for_sale,4.0,4.0,,East Granby,Connecticut,6026.0,2254.0,2006-07-05,399900.0
+47115,for_sale,3.0,2.0,,Mansfield,Connecticut,6250.0,2028.0,2008-12-03,301000.0
+59662,for_sale,2.0,1.0,0.29,Windsor Locks,Connecticut,6096.0,960.0,,160000.0
+84065,for_sale,4.0,4.0,2.39,East Haddam,Connecticut,6423.0,1762.0,,369900.0
+28627,for_sale,3.0,2.0,0.19,Winchester,Connecticut,6098.0,2005.0,2007-07-19,175000.0
+47204,for_sale,4.0,3.0,1.28,Manchester,Connecticut,6040.0,2147.0,2018-10-18,390000.0
+46983,for_sale,4.0,4.0,0.73,West Hartford,Connecticut,6117.0,3600.0,2007-09-07,789000.0
+32289,for_sale,5.0,4.0,1.77,Marlborough,Connecticut,6447.0,2926.0,,946000.0
+65076,for_sale,5.0,4.0,2.6,North Canaan,Connecticut,6024.0,3810.0,,479000.0
+85201,for_sale,4.0,2.0,0.89,Putnam,Connecticut,6260.0,1828.0,,229000.0
+56594,for_sale,,,2.34,Washington,Connecticut,6777.0,,,115000.0
+30722,for_sale,4.0,3.0,0.97,Simsbury,Connecticut,6092.0,2735.0,2002-08-30,545000.0
+47086,for_sale,3.0,2.0,3.45,Lebanon,Connecticut,6249.0,1800.0,,379900.0
+45568,for_sale,4.0,4.0,0.73,Windsor,Connecticut,6095.0,3434.0,1999-08-02,558000.0
+64410,for_sale,,,25.8,Sharon,Connecticut,6069.0,,,1000000.0
+59937,for_sale,3.0,3.0,0.62,Manchester,Connecticut,6040.0,2132.0,,464900.0
+40188,for_sale,2.0,2.0,,Storrs,Connecticut,6268.0,1232.0,,189995.0
+94191,for_sale,3.0,3.0,0.45,Thompson,Connecticut,6277.0,2128.0,2020-02-10,469900.0
+48326,for_sale,3.0,2.0,0.38,Windsor,Connecticut,6095.0,1390.0,,169900.0
+47184,for_sale,,,0.12,Hartford,Connecticut,6112.0,3493.0,2013-05-10,259900.0
+60473,for_sale,3.0,3.0,0.36,Wethersfield,Connecticut,6109.0,1371.0,2012-04-09,339900.0
+56777,for_sale,5.0,,106.0,Washington,Connecticut,6793.0,12832.0,,9900000.0
+60624,for_sale,18.0,6.0,0.22,Hartford,Connecticut,6114.0,6912.0,,650000.0
+45297,for_sale,,,0.83,Avon,Connecticut,6001.0,,,150000.0
+85245,for_sale,,,3.65,Union,Connecticut,6076.0,,,119900.0
+32483,for_sale,4.0,3.0,0.26,Manchester,Connecticut,6040.0,2461.0,2016-02-16,319900.0
+60041,for_sale,4.0,4.0,0.82,East Hampton,Connecticut,6424.0,4903.0,,975000.0
+46066,for_sale,2.0,2.0,0.29,Torrington,Connecticut,6790.0,1425.0,1992-04-08,205000.0
+54281,for_sale,4.0,4.0,1.18,Salisbury,Connecticut,6039.0,3167.0,,1395000.0
+98766,for_sale,4.0,3.0,1.85,Thompson,Connecticut,6255.0,2206.0,2008-03-28,449900.0
+84335,for_sale,5.0,3.0,0.13,Stafford,Connecticut,6076.0,2332.0,,225000.0
+60870,for_sale,3.0,2.0,0.57,Manchester,Connecticut,6040.0,1758.0,,299900.0
+30647,for_sale,4.0,2.0,0.34,Plainville,Connecticut,6062.0,1920.0,2000-06-20,329000.0
+38697,for_sale,2.0,2.0,,Tolland,Connecticut,6084.0,1764.0,,370000.0
+61515,for_sale,1.0,2.0,,Ellington,Connecticut,6029.0,762.0,2009-09-01,145000.0
+38118,for_sale,2.0,1.0,0.3,Vernon,Connecticut,6066.0,1186.0,2005-11-23,189900.0
+68767,for_sale,2.0,3.0,,Manchester,Connecticut,6042.0,1281.0,,174900.0
+68663,for_sale,2.0,2.0,,Vernon,Connecticut,6066.0,1198.0,2010-10-19,182900.0
+30088,for_sale,4.0,3.0,2.27,Canton,Connecticut,6019.0,3011.0,2020-09-10,649000.0
+68400,for_sale,3.0,3.0,0.59,South Windsor,Connecticut,6074.0,1376.0,1994-08-01,324900.0
+57777,for_sale,2.0,3.0,,Watertown,Connecticut,6795.0,1144.0,2005-08-01,229900.0
+81718,for_sale,,,1.29,Tolland,Connecticut,6029.0,,,110000.0
+60955,for_sale,4.0,4.0,0.9,West Hartford,Connecticut,6117.0,3323.0,2017-12-19,839000.0
+57589,for_sale,3.0,3.0,0.39,Watertown,Connecticut,6795.0,1778.0,2016-08-31,359900.0
+48060,for_sale,5.0,6.0,0.51,West Hartford,Connecticut,6117.0,3848.0,2016-04-05,599900.0
+61345,for_sale,8.0,3.0,0.07,Middletown,Connecticut,6457.0,2700.0,,255000.0
+83703,for_sale,,,52.49,East Haddam,Connecticut,6423.0,,,294900.0
+61910,for_sale,5.0,6.0,1.29,Middlefield,Connecticut,6455.0,4303.0,,819000.0
+98065,for_sale,,,0.3,Woodstock,Connecticut,6281.0,,,38000.0
+41877,for_sale,4.0,3.0,0.58,Canton,Connecticut,6019.0,2352.0,2004-03-15,375000.0
+50394,for_sale,3.0,2.0,0.52,East Hartford,Connecticut,6108.0,1587.0,2012-10-18,234900.0
+57475,for_sale,4.0,4.0,1.92,Watertown,Connecticut,6795.0,2455.0,2019-11-25,563900.0
+47348,for_sale,6.0,,0.1,Coventry,Connecticut,6238.0,3652.0,1988-09-02,300000.0
+60394,for_sale,4.0,3.0,0.38,South Windsor,Connecticut,6074.0,2338.0,1987-11-19,386900.0
+50693,for_sale,5.0,3.0,1.1,South Windsor,Connecticut,6074.0,4081.0,2006-06-30,489900.0
+59519,for_sale,4.0,2.0,0.21,West Hartford,Connecticut,6110.0,2020.0,2006-06-19,314900.0
+44429,for_sale,6.0,2.0,0.14,Enfield,Connecticut,6082.0,2676.0,2003-10-31,166259.0
+60949,for_sale,6.0,8.0,4.2,West Hartford,Connecticut,6107.0,7606.0,2002-01-17,1750000.0
+85272,for_sale,4.0,3.0,1.82,Tolland,Connecticut,6084.0,2664.0,2001-06-26,399900.0
+45477,for_sale,4.0,3.0,6.67,Granby,Connecticut,6035.0,2166.0,2003-06-13,357500.0
+61724,for_sale,3.0,3.0,0.59,Portland,Connecticut,6480.0,1852.0,2015-04-27,319000.0
+61088,for_sale,,,0.31,Hartford,Connecticut,6114.0,6703.0,2001-07-30,399900.0
+61403,for_sale,2.0,1.0,,New Britain,Connecticut,6053.0,974.0,2022-02-24,116900.0
+29352,for_sale,,,0.13,Winchester,Connecticut,6098.0,2979.0,,100000.0
+59697,for_sale,,,1.3,Marlborough,Connecticut,6447.0,,,79900.0
+40779,for_sale,3.0,2.0,3.04,Tolland,Connecticut,6084.0,1120.0,2017-03-16,289000.0
+47345,for_sale,3.0,3.0,8.24,Bloomfield,Connecticut,6002.0,2126.0,,1250000.0
+45608,for_sale,4.0,2.0,0.4,Torrington,Connecticut,6790.0,2083.0,1996-06-28,279000.0
+47532,for_sale,3.0,3.0,,Bloomfield,Connecticut,6002.0,2334.0,2014-07-17,395000.0
+83799,for_sale,,,2.12,Chaplin,Connecticut,6235.0,,,39900.0
+59647,for_sale,6.0,2.0,0.09,Hartford,Connecticut,6106.0,2118.0,2002-07-11,170000.0
+68129,for_sale,,,0.45,Enfield,Connecticut,6082.0,,,34900.0
+50759,for_sale,9.0,3.0,0.11,Hartford,Connecticut,6106.0,3861.0,2016-06-07,309900.0
+47773,for_sale,3.0,2.0,0.27,East Hartford,Connecticut,6118.0,1824.0,2020-04-14,249900.0
+50647,for_sale,3.0,3.0,1.0,Ellington,Connecticut,6029.0,1862.0,1995-01-30,359900.0
+61142,for_sale,3.0,3.0,0.25,Cromwell,Connecticut,6416.0,2236.0,,604514.0
+50838,for_sale,6.0,4.0,1.45,Ellington,Connecticut,6029.0,2432.0,2019-03-11,329900.0
+64824,for_sale,4.0,3.0,2.91,Warren,Connecticut,6754.0,3544.0,2017-08-28,899000.0
+59996,for_sale,2.0,2.0,,Middletown,Connecticut,6457.0,1129.0,2013-05-10,196000.0
+61147,for_sale,4.0,3.0,0.46,Rocky Hill,Connecticut,6067.0,2576.0,,339900.0
+47404,for_sale,5.0,4.0,0.3,West Hartford,Connecticut,6119.0,2817.0,1999-11-26,565000.0
+45190,for_sale,4.0,3.0,0.39,Torrington,Connecticut,6790.0,2020.0,,339000.0
+84898,for_sale,4.0,2.0,0.94,Stafford,Connecticut,6076.0,1629.0,2001-08-01,220000.0
+32270,for_sale,5.0,2.0,0.63,Coventry,Connecticut,6238.0,1666.0,2001-07-06,259900.0
+48046,for_sale,3.0,3.0,0.69,East Windsor,Connecticut,6016.0,2136.0,2020-10-05,354900.0
+64644,for_sale,2.0,1.0,40.0,Sharon,Connecticut,6069.0,1361.0,,475000.0
+95569,for_sale,3.0,3.0,1.85,Sterling,Connecticut,6377.0,1820.0,2008-11-06,379900.0
+61255,for_sale,4.0,3.0,1.12,East Hampton,Connecticut,6424.0,3017.0,,557400.0
+29397,for_sale,3.0,3.0,3.1,Barkhamsted,Connecticut,6063.0,2621.0,2003-07-22,479900.0
+56850,for_sale,3.0,4.0,0.45,Canaan,Connecticut,6031.0,3226.0,,785000.0
+38791,for_sale,3.0,2.0,0.56,Stafford,Connecticut,6076.0,1214.0,,129000.0
+83957,for_sale,,,3.15,Mansfield,Connecticut,6250.0,,,87000.0
+29277,for_sale,4.0,4.0,3.71,Granby,Connecticut,6090.0,3953.0,,650000.0
+48157,for_sale,3.0,2.0,0.69,Glastonbury,Connecticut,6033.0,2055.0,,225000.0
+94967,for_sale,3.0,3.0,2.6,Killingly,Connecticut,6239.0,2160.0,2015-07-30,439900.0
+60271,for_sale,2.0,3.0,11.86,East Haddam,Connecticut,6469.0,2802.0,,1949000.0
+84808,for_sale,,,0.3,Woodstock,Connecticut,6281.0,,2005-02-24,53900.0
+56839,for_sale,3.0,1.0,0.11,Torrington,Connecticut,6790.0,1066.0,,174500.0
+62130,for_sale,4.0,3.0,1.48,Haddam,Connecticut,6441.0,2006.0,,399000.0
+61228,for_sale,3.0,3.0,0.38,Berlin,Connecticut,6037.0,1520.0,2005-03-01,359900.0
+84847,for_sale,,,6.49,Willington,Connecticut,6279.0,,,129000.0
+94138,for_sale,2.0,2.0,3.58,North Stonington,Connecticut,6359.0,2324.0,1993-06-03,694900.0
+57482,for_sale,3.0,2.0,0.35,Torrington,Connecticut,6790.0,804.0,2018-06-20,250000.0
+61709,for_sale,4.0,3.0,0.5,Berlin,Connecticut,6037.0,1996.0,1997-05-19,469900.0
+61048,for_sale,3.0,3.0,0.46,West Hartford,Connecticut,6107.0,1498.0,1990-02-16,374900.0
+30219,for_sale,5.0,3.0,46.28,Colebrook,Connecticut,6021.0,3307.0,2000-12-05,1095000.0
+45288,for_sale,3.0,3.0,,Windsor,Connecticut,6095.0,1800.0,,309900.0
+96352,for_sale,3.0,3.0,0.3,Voluntown,Connecticut,6384.0,2421.0,2012-11-09,1350000.0
+61605,for_sale,3.0,3.0,0.18,Rocky Hill,Connecticut,6067.0,1708.0,2010-12-16,285000.0
+56553,for_sale,3.0,4.0,20.0,Litchfield,Connecticut,6759.0,2988.0,2018-06-27,975000.0
+60370,for_sale,4.0,2.0,0.44,East Hartford,Connecticut,6108.0,2974.0,,269925.0
+59279,for_sale,,,3.44,Portland,Connecticut,6480.0,,,150000.0
+85595,for_sale,5.0,4.0,49.97,Mansfield,Connecticut,6268.0,4273.0,1993-01-25,1200000.0
+62081,for_sale,5.0,5.0,0.56,Wethersfield,Connecticut,6109.0,3952.0,1996-01-17,749000.0
+61430,for_sale,4.0,2.0,0.18,West Hartford,Connecticut,6119.0,1695.0,2001-07-23,369000.0
+45380,for_sale,,,1.29,Avon,Connecticut,6001.0,,,220000.0
+61524,for_sale,2.0,1.0,0.23,Middlefield,Connecticut,6455.0,1024.0,2004-12-14,225000.0
+45856,for_sale,3.0,4.0,62.5,New Hartford,Connecticut,6057.0,4390.0,,1125000.0
+45342,for_sale,3.0,3.0,1.38,Avon,Connecticut,6001.0,1498.0,,290000.0
+47918,for_sale,5.0,5.0,1.37,South Windsor,Connecticut,6074.0,3000.0,,569000.0
+61637,for_sale,7.0,3.0,0.26,New Britain,Connecticut,6052.0,4488.0,2019-08-26,395000.0
+96541,for_sale,3.0,3.0,5.85,Plainfield,Connecticut,6354.0,1917.0,,485000.0
+60992,for_sale,4.0,2.0,0.18,New Britain,Connecticut,6052.0,1994.0,2004-11-22,209900.0
+64516,for_sale,,2.0,0.58,Salisbury,Connecticut,6068.0,4770.0,2003-11-07,550000.0
+60929,for_sale,3.0,3.0,,Glastonbury,Connecticut,6033.0,1723.0,2012-07-03,354000.0
+59182,for_sale,,,31.99,East Hampton,Connecticut,6424.0,,,558000.0
+84015,for_sale,3.0,3.0,5.61,Lyme,Connecticut,6371.0,3359.0,1994-10-07,649000.0
+30796,for_sale,3.0,3.0,,Avon,Connecticut,6001.0,2708.0,2020-10-16,375000.0
+84138,for_sale,,,1.56,Colchester,Connecticut,6415.0,,,74000.0
+59997,for_sale,5.0,3.0,0.46,Newington,Connecticut,6111.0,3136.0,2007-04-30,429999.0
+60439,for_sale,,,3.23,East Windsor,Connecticut,6088.0,,1996-01-29,75000.0
+38627,for_sale,3.0,2.0,5.12,Eastford,Connecticut,6242.0,2210.0,,493000.0
+59952,for_sale,3.0,2.0,0.21,Meriden,Connecticut,6450.0,1449.0,2020-12-22,284900.0
+59671,for_sale,2.0,2.0,0.34,Meriden,Connecticut,6450.0,1294.0,2017-12-18,315900.0
+85019,for_sale,6.0,3.0,0.18,Putnam,Connecticut,6260.0,2968.0,2003-09-30,249900.0
+47609,for_sale,,,1.24,Coventry,Connecticut,6238.0,4514.0,2009-10-30,525000.0
+59748,for_sale,3.0,2.0,4.88,East Hampton,Connecticut,6424.0,1571.0,2000-04-03,235000.0
+61158,for_sale,3.0,3.0,0.53,East Hampton,Connecticut,6424.0,1744.0,2007-08-30,345000.0
+59809,for_sale,4.0,2.0,0.69,Vernon,Connecticut,6066.0,2476.0,,260000.0
+84415,for_sale,3.0,2.0,0.27,Windham,Connecticut,6226.0,804.0,2018-03-23,225000.0
+83787,for_sale,3.0,1.0,1.0,Colchester,Connecticut,6415.0,1056.0,,219000.0
+57308,for_sale,3.0,3.0,0.98,Watertown,Connecticut,6795.0,1496.0,,299900.0
+58819,for_sale,,,47.17,Goshen,Connecticut,6756.0,,2016-12-28,475000.0
+55080,for_sale,,,25.79,Washington,Connecticut,6794.0,,,1595000.0
+47707,for_sale,4.0,6.0,0.7,West Hartford,Connecticut,6117.0,5094.0,2015-07-23,849900.0
+30718,for_sale,1.0,1.0,,Farmington,Connecticut,6032.0,725.0,2006-07-20,109000.0
+59942,for_sale,3.0,3.0,0.2,Manchester,Connecticut,6040.0,2525.0,,469900.0
+56790,for_sale,5.0,1.0,1.0,Torrington,Connecticut,6790.0,2472.0,,130000.0
+61009,for_sale,3.0,2.0,0.39,Middletown,Connecticut,6457.0,1469.0,2003-07-31,259900.0
+30595,for_sale,2.0,1.0,,Farmington,Connecticut,6032.0,881.0,2016-09-01,135000.0
+98060,for_sale,,,0.3,Woodstock,Connecticut,6281.0,,,26900.0
+60115,for_sale,3.0,1.0,0.13,Middletown,Connecticut,6457.0,1360.0,2000-06-15,215000.0
+59435,for_sale,6.0,2.0,0.27,Manchester,Connecticut,6040.0,2568.0,2018-07-26,279000.0
+30799,for_sale,5.0,6.0,2.8,Simsbury,Connecticut,6092.0,4639.0,2018-05-07,1200000.0
+60005,for_sale,4.0,3.0,3.48,Glastonbury,Connecticut,6073.0,2500.0,,639900.0
+47539,for_sale,3.0,2.0,0.26,East Hartford,Connecticut,6118.0,1442.0,2020-11-02,259900.0
+55012,for_sale,,,0.29,Torrington,Connecticut,6790.0,,,34900.0
+83814,for_sale,,,2.0,Salem,Connecticut,6420.0,,,80000.0
+42898,for_sale,5.0,3.0,0.2,Stafford,Connecticut,6076.0,1405.0,,189900.0
+45651,for_sale,3.0,3.0,2.7,Barkhamsted,Connecticut,6063.0,1434.0,2015-02-25,249500.0
+60014,for_sale,2.0,2.0,,Middletown,Connecticut,6457.0,1150.0,,129900.0
+96026,for_sale,3.0,2.0,2.3,Sterling,Connecticut,6377.0,1470.0,2018-07-02,399900.0
+60945,for_sale,3.0,1.0,0.17,Hartford,Connecticut,6106.0,1400.0,2008-01-07,235000.0
+95165,for_sale,3.0,1.0,2.12,Killingly,Connecticut,6239.0,1158.0,2011-05-17,350000.0
+90659,for_sale,3.0,1.0,0.09,Putnam,Connecticut,6260.0,998.0,2004-07-23,129900.0
+96254,for_sale,2.0,2.0,,North Providence,Rhode Island,2904.0,1221.0,,294900.0
+93864,for_sale,,,1.2,Barrington,Rhode Island,2806.0,,2017-03-02,1695000.0
+92251,for_sale,3.0,3.0,0.28,Woonsocket,Rhode Island,2895.0,1656.0,,295900.0
+96113,for_sale,3.0,2.0,0.12,Woonsocket,Rhode Island,2895.0,1277.0,2016-04-22,259900.0
+96294,for_sale,3.0,2.0,0.11,Woonsocket,Rhode Island,2895.0,1147.0,,399828.0
+94446,for_sale,5.0,2.0,0.09,Pawtucket,Rhode Island,2860.0,3767.0,2017-03-31,400000.0
+94329,for_sale,3.0,3.0,0.13,Bristol,Rhode Island,2809.0,7494.0,,799900.0
+96055,for_sale,3.0,2.0,1.52,East Greenwich,Rhode Island,2818.0,1212.0,,559000.0
+96200,for_sale,3.0,2.0,0.26,Warwick,Rhode Island,2888.0,2729.0,,539900.0
+95009,for_sale,2.0,3.0,,West Warwick,Rhode Island,2893.0,1941.0,,450000.0
+96212,for_sale,2.0,1.0,0.26,Warwick,Rhode Island,2888.0,1703.0,,439900.0
+95818,for_sale,4.0,2.0,0.07,Providence,Rhode Island,2908.0,2650.0,1999-01-14,305000.0
+95215,for_sale,2.0,2.0,0.11,Warwick,Rhode Island,2888.0,1313.0,,274977.0
+94497,for_sale,6.0,2.0,0.23,Johnston,Rhode Island,2919.0,3036.0,,334900.0
+95567,for_sale,6.0,3.0,0.44,Cumberland,Rhode Island,2864.0,2137.0,2021-11-12,399900.0
+95349,for_sale,3.0,3.0,0.14,Cumberland,Rhode Island,2864.0,2208.0,2011-04-15,449900.0
+95814,for_sale,3.0,2.0,0.26,Warwick,Rhode Island,2889.0,1176.0,,240000.0
+94850,for_sale,6.0,3.0,0.17,Providence,Rhode Island,2908.0,4368.0,2003-03-26,379900.0
+94821,for_sale,4.0,2.0,1.03,Smithfield,Rhode Island,2917.0,1992.0,2018-08-22,474900.0
+94752,for_sale,7.0,3.0,0.18,Woonsocket,Rhode Island,2895.0,4288.0,,399999.0
+94867,for_sale,4.0,6.0,2.96,East Greenwich,Rhode Island,2818.0,6959.0,2021-10-14,2100000.0
+96366,for_sale,4.0,3.0,0.2,Warwick,Rhode Island,2886.0,1357.0,,295000.0
+94342,for_sale,2.0,2.0,,Coventry,Rhode Island,2816.0,1296.0,2015-12-17,158000.0
+94362,for_sale,4.0,5.0,7.2,East Greenwich,Rhode Island,2818.0,7300.0,,2250000.0
+93893,for_sale,3.0,1.0,0.17,Cranston,Rhode Island,2920.0,960.0,2005-07-25,270000.0
+95787,for_sale,6.0,4.0,0.21,West Warwick,Rhode Island,2893.0,2716.0,,410000.0
+94353,for_sale,5.0,3.0,0.19,North Providence,Rhode Island,2908.0,2184.0,1999-10-19,468500.0
+95762,for_sale,1.0,1.0,1.43,Pawtucket,Rhode Island,2860.0,610.0,,230000.0
+94533,for_sale,,,0.27,Warwick,Rhode Island,2886.0,,,79900.0
+93936,for_sale,,,1.87,Smithfield,Rhode Island,2917.0,,,199500.0
+94860,for_sale,3.0,2.0,2.8,Exeter,Rhode Island,2822.0,2120.0,,469000.0
+96462,for_sale,4.0,4.0,1.14,East Greenwich,Rhode Island,2818.0,2808.0,2014-06-25,925000.0
+95010,for_sale,2.0,2.0,,East Providence,Rhode Island,2916.0,1080.0,2003-03-11,279900.0
+95734,for_sale,2.0,1.0,0.12,Barrington,Rhode Island,2806.0,970.0,2021-03-25,379000.0
+92279,for_sale,8.0,3.0,0.48,North Smithfield,Rhode Island,2896.0,4479.0,2016-06-03,599900.0
+95313,for_sale,1.0,1.0,0.3,Scituate,Rhode Island,2831.0,936.0,2019-02-21,300000.0
+93830,for_sale,5.0,3.0,1.6,Coventry,Rhode Island,2816.0,2562.0,2021-01-04,289000.0
+94615,for_sale,5.0,2.0,0.23,Coventry,Rhode Island,2816.0,3084.0,,349900.0
+96718,for_sale,3.0,2.0,0.17,Johnston,Rhode Island,2919.0,1700.0,2007-10-16,399000.0
+96858,for_sale,1.0,1.0,,Woonsocket,Rhode Island,2895.0,851.0,2007-07-23,199000.0
+92440,for_sale,9.0,3.0,0.37,Woonsocket,Rhode Island,2895.0,6310.0,2019-12-10,449999.0
+94696,for_sale,5.0,2.0,0.15,Pawtucket,Rhode Island,2860.0,2716.0,2018-11-20,360000.0
+95259,for_sale,3.0,2.0,0.11,North Providence,Rhode Island,2911.0,1581.0,2017-01-20,379900.0
+94132,for_sale,2.0,2.0,,Johnston,Rhode Island,2919.0,1078.0,,184900.0
+94181,for_sale,3.0,3.0,0.48,Warwick,Rhode Island,2889.0,2994.0,,450000.0
+94981,for_sale,4.0,3.0,0.25,Cranston,Rhode Island,2920.0,2028.0,,439000.0
+95489,for_sale,3.0,2.0,0.08,Providence,Rhode Island,2909.0,1613.0,2021-12-20,350000.0
+95168,for_sale,3.0,4.0,0.13,North Kingstown,Rhode Island,2852.0,1746.0,2020-08-06,615000.0
+81900,for_sale,5.0,2.0,0.54,Burrillville,Rhode Island,2830.0,2040.0,2012-06-29,479900.0
+95586,for_sale,5.0,3.0,0.11,Providence,Rhode Island,2908.0,5623.0,,499900.0
+95381,for_sale,3.0,3.0,1.16,Johnston,Rhode Island,2919.0,1768.0,2005-01-14,469900.0
+95727,for_sale,4.0,5.0,0.12,East Greenwich,Rhode Island,2818.0,1820.0,2018-07-27,779000.0
+94357,for_sale,5.0,3.0,0.17,Providence,Rhode Island,2906.0,5712.0,,895000.0
+96605,for_sale,3.0,2.0,0.21,Cranston,Rhode Island,2921.0,1354.0,2004-12-10,399990.0
+94575,for_sale,6.0,3.0,0.04,Providence,Rhode Island,2908.0,3285.0,1989-09-12,300000.0
+95617,for_sale,4.0,2.0,0.24,Lincoln,Rhode Island,2865.0,1428.0,1992-06-29,349900.0
+96504,for_sale,6.0,2.0,0.08,Providence,Rhode Island,2908.0,2512.0,,447000.0
+95038,for_sale,3.0,2.0,0.24,East Providence,Rhode Island,2914.0,4650.0,,339900.0
+94193,for_sale,3.0,1.0,0.07,Providence,Rhode Island,2908.0,996.0,2006-06-13,209900.0
+96705,for_sale,3.0,2.0,0.66,East Providence,Rhode Island,2915.0,1734.0,2008-12-24,459000.0
+94766,for_sale,3.0,3.0,1.0,Scituate,Rhode Island,2857.0,1904.0,2021-05-20,475000.0
+95440,for_sale,2.0,1.0,0.11,Cranston,Rhode Island,2910.0,985.0,2017-05-30,264900.0
+95572,for_sale,1.0,1.0,0.09,East Providence,Rhode Island,2915.0,1100.0,2016-07-08,255000.0
+95530,for_sale,3.0,2.0,0.07,East Providence,Rhode Island,2914.0,1225.0,2019-12-30,275000.0
+93812,for_sale,6.0,3.0,0.09,Providence,Rhode Island,2907.0,3463.0,,250000.0
+92266,for_sale,3.0,2.0,0.21,Cumberland,Rhode Island,2864.0,1248.0,2005-01-28,339900.0
+93881,for_sale,7.0,2.0,0.08,Providence,Rhode Island,2909.0,3028.0,,269900.0
+96403,for_sale,4.0,2.0,2.43,Cranston,Rhode Island,2921.0,2164.0,,495000.0
+94945,for_sale,4.0,2.0,0.07,Providence,Rhode Island,2905.0,3439.0,,359900.0
+95018,for_sale,3.0,2.0,0.2,North Providence,Rhode Island,2911.0,2192.0,,399900.0
+96893,for_sale,1.0,1.0,,Warwick,Rhode Island,2886.0,680.0,,159000.0
+94044,for_sale,3.0,1.0,0.32,East Greenwich,Rhode Island,2818.0,1242.0,2014-11-26,369000.0
+94214,for_sale,4.0,2.0,0.05,Providence,Rhode Island,2909.0,2190.0,1995-11-30,279900.0
+94021,for_sale,,,0.27,North Kingstown,Rhode Island,2852.0,,,164900.0
+95188,for_sale,3.0,2.0,0.36,East Greenwich,Rhode Island,2818.0,1270.0,,450000.0
+95472,for_sale,3.0,2.0,0.29,Johnston,Rhode Island,2919.0,1038.0,2019-08-30,410000.0
+85453,for_sale,2.0,1.0,0.66,Burrillville,Rhode Island,2859.0,960.0,2009-05-15,299900.0
+95054,for_sale,3.0,2.0,0.14,Johnston,Rhode Island,2919.0,2652.0,2002-09-06,359900.0
+96006,for_sale,4.0,2.0,0.11,Pawtucket,Rhode Island,2861.0,1556.0,2008-08-29,379000.0
+95377,for_sale,4.0,3.0,1.07,East Greenwich,Rhode Island,2818.0,3094.0,,539900.0
+95222,for_sale,3.0,3.0,0.55,Johnston,Rhode Island,2919.0,2600.0,,625000.0
+96806,for_sale,2.0,1.0,0.11,Barrington,Rhode Island,2806.0,1276.0,2000-10-31,485000.0
+94868,for_sale,4.0,2.0,0.23,Warwick,Rhode Island,2888.0,1123.0,2016-03-24,375000.0
+94306,for_sale,3.0,2.0,0.09,Barrington,Rhode Island,2806.0,1622.0,2017-10-20,479900.0
+95394,for_sale,3.0,2.0,0.15,Coventry,Rhode Island,2816.0,1070.0,2015-11-02,315000.0
+95812,for_sale,4.0,1.0,0.07,Providence,Rhode Island,2907.0,1570.0,1989-02-07,225000.0
+96799,for_sale,3.0,1.0,0.24,Smithfield,Rhode Island,2828.0,1052.0,2021-11-30,369999.0
+94832,for_sale,3.0,1.0,0.21,Coventry,Rhode Island,2816.0,1440.0,2013-10-21,339900.0
+96835,for_sale,4.0,3.0,7.9,West Greenwich,Rhode Island,2817.0,2454.0,,649900.0
+93938,for_sale,5.0,8.0,6.22,North Kingstown,Rhode Island,2852.0,6700.0,,3500000.0
+96096,for_sale,3.0,1.0,0.3,Warwick,Rhode Island,2886.0,1240.0,,379900.0
+96620,for_sale,6.0,3.0,0.08,Lincoln,Rhode Island,2838.0,5778.0,,299900.0
+95197,for_sale,2.0,2.0,,Barrington,Rhode Island,2806.0,1102.0,,380000.0
+95953,for_sale,3.0,3.0,5.81,Coventry,Rhode Island,2816.0,1926.0,,649900.0
+95903,for_sale,3.0,1.0,0.18,Woonsocket,Rhode Island,2895.0,960.0,,220000.0
+94081,for_sale,3.0,1.0,,Glocester,Rhode Island,2909.0,860.0,,39900.0
+94275,for_sale,4.0,2.0,0.09,North Providence,Rhode Island,2911.0,3396.0,2010-12-15,350000.0
+95401,for_sale,4.0,2.0,0.13,Johnston,Rhode Island,2919.0,2865.0,2016-10-03,354900.0
+94820,for_sale,3.0,2.0,0.14,Pawtucket,Rhode Island,2860.0,1864.0,2017-06-05,550000.0
+92673,for_sale,2.0,2.0,,Lincoln,Rhode Island,2865.0,1736.0,,590000.0
+96663,for_sale,10.0,4.0,0.2,Providence,Rhode Island,2905.0,7068.0,,589000.0
+94993,for_sale,4.0,2.0,0.17,Cumberland,Rhode Island,2864.0,1336.0,2016-10-14,325000.0
+94997,for_sale,3.0,4.0,0.36,Warwick,Rhode Island,2818.0,2380.0,,699900.0
+94917,for_sale,,,1.07,Warwick,Rhode Island,2886.0,,,225000.0
+94222,for_sale,4.0,2.0,0.1,East Providence,Rhode Island,2914.0,1373.0,1993-06-25,239900.0
+96195,for_sale,4.0,2.0,0.73,Richmond,Rhode Island,2898.0,1152.0,,360000.0
+94007,for_sale,4.0,2.0,0.07,Johnston,Rhode Island,2919.0,2420.0,,285000.0
+94659,for_sale,2.0,1.0,0.35,Coventry,Rhode Island,2816.0,900.0,2018-05-01,294000.0
+94743,for_sale,,,36.0,West Greenwich,Rhode Island,2817.0,,,349000.0
+93808,for_sale,3.0,1.0,1.84,Coventry,Rhode Island,2816.0,1452.0,,149900.0
+94565,for_sale,5.0,5.0,0.21,Pawtucket,Rhode Island,2860.0,3931.0,,799000.0
+95163,for_sale,3.0,3.0,1.0,Johnston,Rhode Island,2919.0,2268.0,,390000.0
+94454,for_sale,4.0,2.0,0.18,Warwick,Rhode Island,2886.0,1670.0,,299000.0
+96222,for_sale,3.0,2.0,0.13,Warwick,Rhode Island,2886.0,1470.0,,419900.0
+96629,for_sale,4.0,2.0,0.11,East Providence,Rhode Island,2914.0,2686.0,2020-07-01,308512.0
+94984,for_sale,4.0,4.0,0.11,Pawtucket,Rhode Island,2861.0,3764.0,,429900.0
+96828,for_sale,10.0,4.0,0.43,Smithfield,Rhode Island,2917.0,6840.0,2018-10-12,529900.0
+94864,for_sale,4.0,2.0,1.0,East Greenwich,Rhode Island,2818.0,1578.0,,599900.0
+95239,for_sale,6.0,4.0,0.07,Providence,Rhode Island,2905.0,2931.0,2014-10-09,420000.0
+95412,for_sale,3.0,2.0,0.31,North Providence,Rhode Island,2911.0,1440.0,2019-03-29,314900.0
+96001,for_sale,3.0,3.0,0.13,East Providence,Rhode Island,2916.0,1682.0,2020-09-22,599000.0
+96627,for_sale,4.0,2.0,0.73,Barrington,Rhode Island,2806.0,3177.0,,589900.0
+85169,for_sale,3.0,3.0,0.46,Glocester,Rhode Island,2814.0,1184.0,2015-01-12,469900.0
+94676,for_sale,6.0,3.0,0.12,Providence,Rhode Island,2907.0,4759.0,,354900.0
+95601,for_sale,2.0,2.0,,Providence,Rhode Island,2903.0,1490.0,,520000.0
+93953,for_sale,2.0,2.0,,Scituate,Rhode Island,2857.0,1450.0,,388900.0
+93975,for_sale,5.0,2.0,0.12,Cranston,Rhode Island,2920.0,2455.0,1992-06-15,329900.0
+95315,for_sale,4.0,1.0,0.16,West Warwick,Rhode Island,2893.0,1254.0,,349900.0
+96636,for_sale,2.0,1.0,0.12,West Warwick,Rhode Island,2893.0,864.0,,269000.0
+94779,for_sale,2.0,2.0,0.67,Burrillville,Rhode Island,2859.0,950.0,,399900.0
+95140,for_sale,3.0,2.0,0.11,Johnston,Rhode Island,2919.0,1500.0,,289900.0
+94442,for_sale,3.0,1.0,0.08,Cumberland,Rhode Island,2864.0,1200.0,2021-08-25,275000.0
+96688,for_sale,3.0,2.0,0.28,Warwick,Rhode Island,2889.0,2010.0,2020-05-15,775000.0
+94217,for_sale,3.0,3.0,0.4,North Providence,Rhode Island,2904.0,2393.0,2005-08-05,385000.0
+94695,for_sale,4.0,3.0,0.44,Cumberland,Rhode Island,2864.0,2700.0,1997-09-30,689900.0
+93829,for_sale,,,3.55,Coventry,Rhode Island,2816.0,,,135000.0
+90518,for_sale,4.0,1.0,0.22,Burrillville,Rhode Island,2859.0,1476.0,2021-03-11,345000.0
+94645,for_sale,4.0,2.0,0.15,Providence,Rhode Island,2904.0,3717.0,2004-05-03,379000.0
+96587,for_sale,1.0,1.0,0.15,Warwick,Rhode Island,2889.0,648.0,2021-05-28,200000.0
+93802,for_sale,8.0,3.0,0.12,Providence,Rhode Island,2909.0,3896.0,,249900.0
+81877,for_sale,3.0,2.0,,Burrillville,Rhode Island,2859.0,1700.0,2019-09-30,239900.0
+94158,for_sale,,,110.8,Coventry,Rhode Island,2827.0,,2018-05-01,475000.0
+93919,for_sale,2.0,1.0,2.1,Coventry,Rhode Island,2816.0,776.0,,309900.0
+94526,for_sale,3.0,2.0,0.1,Pawtucket,Rhode Island,2861.0,1674.0,2021-11-22,329000.0
+95240,for_sale,,,3.94,Coventry,Rhode Island,2816.0,,,474900.0
+94534,for_sale,9.0,4.0,0.07,Providence,Rhode Island,2909.0,5411.0,,448000.0
+94375,for_sale,4.0,3.0,0.57,Cranston,Rhode Island,2921.0,2765.0,,727838.0
+94346,for_sale,1.0,1.0,,West Warwick,Rhode Island,2893.0,700.0,,119000.0
+95406,for_sale,3.0,2.0,0.11,East Providence,Rhode Island,2915.0,1572.0,2013-10-15,359900.0
+94948,for_sale,5.0,2.0,0.24,Cranston,Rhode Island,2920.0,3915.0,1999-04-28,389999.0
+94584,for_sale,3.0,1.0,0.15,Cranston,Rhode Island,2920.0,960.0,2015-09-30,298500.0
+95698,for_sale,3.0,1.0,4.06,Glocester,Rhode Island,2814.0,1236.0,,375000.0
+95351,for_sale,4.0,3.0,0.41,North Providence,Rhode Island,2904.0,1644.0,2001-12-21,425000.0
+96184,for_sale,6.0,4.0,0.1,Cumberland,Rhode Island,2864.0,4000.0,,795000.0
+94704,for_sale,3.0,2.0,1.63,West Greenwich,Rhode Island,2817.0,1056.0,2020-04-09,499000.0
+96343,for_sale,3.0,1.0,0.3,West Warwick,Rhode Island,2893.0,1355.0,2015-06-30,295000.0
+94968,for_sale,2.0,1.0,0.33,Hopkinton,Rhode Island,2873.0,1047.0,2020-12-23,239000.0
+96178,for_sale,3.0,3.0,0.46,Lincoln,Rhode Island,2865.0,2020.0,1997-04-09,529900.0
+94285,for_sale,9.0,3.0,0.08,Providence,Rhode Island,2909.0,4500.0,2010-04-29,365000.0
+95069,for_sale,3.0,2.0,1.3,West Greenwich,Rhode Island,2817.0,1496.0,,499900.0
+95123,for_sale,3.0,2.0,0.19,Providence,Rhode Island,2907.0,1779.0,1993-12-13,289900.0
+94364,for_sale,11.0,12.0,12.29,Bristol,Rhode Island,2809.0,11672.0,2000-03-10,7450000.0
+95342,for_sale,3.0,2.0,0.61,Jamestown,Rhode Island,2835.0,1300.0,2018-11-02,799000.0
+96257,for_sale,4.0,2.0,0.11,West Warwick,Rhode Island,2893.0,1616.0,,175000.0
+96056,for_sale,3.0,2.0,0.12,Cranston,Rhode Island,2905.0,1200.0,2022-01-04,395000.0
+95929,for_sale,6.0,3.0,0.13,Pawtucket,Rhode Island,2861.0,3400.0,,405000.0
+94489,for_sale,3.0,1.0,0.67,Coventry,Rhode Island,2816.0,1507.0,2015-03-02,379900.0
+96148,for_sale,2.0,2.0,,Richmond,Rhode Island,2898.0,1175.0,,295000.0
+94213,for_sale,7.0,3.0,0.17,Scituate,Rhode Island,2831.0,5966.0,,429900.0
+95799,for_sale,7.0,5.0,0.08,Providence,Rhode Island,2904.0,4978.0,2012-11-02,449900.0
+94692,for_sale,3.0,2.0,0.09,Providence,Rhode Island,2909.0,952.0,,264900.0
+94089,for_sale,3.0,1.0,0.09,East Providence,Rhode Island,2914.0,1092.0,2007-06-26,149900.0
+94536,for_sale,1.0,1.0,4.87,Foster,Rhode Island,2825.0,720.0,,325000.0
+93875,for_sale,2.0,2.0,,North Providence,Rhode Island,2904.0,1280.0,2001-12-28,241000.0
+95913,for_sale,3.0,2.0,0.92,Richmond,Rhode Island,2892.0,1132.0,2015-03-24,415000.0
+81846,for_sale,3.0,2.0,0.46,Burrillville,Rhode Island,2839.0,1632.0,1998-01-16,420000.0
+95972,for_sale,3.0,2.0,0.41,Warwick,Rhode Island,2886.0,4200.0,,1850000.0
+94522,for_sale,,,0.51,Warwick,Rhode Island,2886.0,,,129900.0
+96570,for_sale,1.0,2.0,3.1,West Greenwich,Rhode Island,2817.0,1344.0,,299900.0
+96382,for_sale,6.0,4.0,0.13,Johnston,Rhode Island,2919.0,3574.0,,339000.0
+94390,for_sale,2.0,1.0,0.09,Providence,Rhode Island,2903.0,1395.0,,309000.0
+96692,for_sale,3.0,1.0,0.0,Warwick,Rhode Island,2888.0,1284.0,2016-01-25,389900.0
+94223,for_sale,1.0,1.0,,Lincoln,Rhode Island,2865.0,722.0,2007-07-30,156000.0
+95662,for_sale,4.0,2.0,0.11,North Providence,Rhode Island,2904.0,1482.0,2007-12-11,289000.0
+96166,for_sale,4.0,3.0,0.64,Cumberland,Rhode Island,2864.0,2400.0,2019-08-07,629000.0
+93856,for_sale,,,138.0,Foster,Rhode Island,2825.0,,2000-01-27,695000.0
+94174,for_sale,6.0,3.0,0.11,Providence,Rhode Island,2909.0,5351.0,,110000.0
+94827,for_sale,4.0,4.0,0.93,Warwick,Rhode Island,2886.0,3673.0,,919900.0
+93918,for_sale,3.0,2.0,0.59,Hopkinton,Rhode Island,2832.0,2000.0,,200000.0
+94611,for_sale,4.0,1.0,0.05,Cumberland,Rhode Island,2864.0,2005.0,,360000.0
+93923,for_sale,5.0,6.0,3.37,Providence,Rhode Island,2906.0,9187.0,,3100000.0
+94312,for_sale,4.0,2.0,0.23,North Providence,Rhode Island,2904.0,1851.0,2020-10-02,399000.0
+96486,for_sale,3.0,2.0,0.16,Cranston,Rhode Island,2920.0,1250.0,2004-06-15,225000.0
+81969,for_sale,3.0,1.0,0.13,Woonsocket,Rhode Island,2895.0,1056.0,2021-04-05,319000.0
+93906,for_sale,4.0,4.0,0.12,Cumberland,Rhode Island,2864.0,5280.0,,320000.0
+96386,for_sale,2.0,1.0,0.11,Pawtucket,Rhode Island,2860.0,924.0,,312500.0
+93979,for_sale,4.0,3.0,0.25,Johnston,Rhode Island,2919.0,1448.0,,309000.0
+96317,for_sale,10.0,4.0,0.11,Woonsocket,Rhode Island,2895.0,6798.0,2008-01-29,425000.0
+95791,for_sale,3.0,1.0,0.32,Smithfield,Rhode Island,2828.0,976.0,2021-10-07,309900.0
+94777,for_sale,3.0,1.0,0.18,Coventry,Rhode Island,2816.0,1350.0,2015-08-03,290000.0
+96109,for_sale,4.0,2.0,0.1,Providence,Rhode Island,2906.0,5163.0,,347900.0
+95109,for_sale,4.0,3.0,0.2,Cranston,Rhode Island,2920.0,1394.0,2019-05-22,469900.0
+94396,for_sale,3.0,1.0,0.25,Coventry,Rhode Island,2816.0,968.0,,349000.0
+93984,for_sale,12.0,3.0,0.13,Providence,Rhode Island,2907.0,5922.0,2012-01-26,549900.0
+94038,for_sale,,,3.77,Smithfield,Rhode Island,2917.0,,,1500000.0
+95969,for_sale,3.0,2.0,0.57,Barrington,Rhode Island,2806.0,1972.0,,749000.0
+94091,for_sale,5.0,4.0,0.17,Hopkinton,Rhode Island,2832.0,1365.0,,299000.0
+96350,for_sale,4.0,3.0,0.57,Cumberland,Rhode Island,2864.0,2795.0,2018-12-13,499900.0
+92204,for_sale,3.0,2.0,0.11,Woonsocket,Rhode Island,2895.0,1320.0,1998-09-28,219900.0
+94260,for_sale,4.0,3.0,1.31,Lincoln,Rhode Island,2865.0,1400.0,2000-11-15,999900.0
+95974,for_sale,2.0,3.0,,Richmond,Rhode Island,2898.0,1613.0,,3749000.0
+94148,for_sale,6.0,2.0,0.1,Providence,Rhode Island,2907.0,4333.0,2015-10-21,503000.0
+92751,for_sale,8.0,3.0,0.16,Lincoln,Rhode Island,2838.0,4140.0,,439900.0
+96030,for_sale,3.0,2.0,0.11,Pawtucket,Rhode Island,2861.0,1294.0,2019-01-09,334900.0
+95485,for_sale,,,3.28,Cranston,Rhode Island,2921.0,,,195000.0
+95015,for_sale,2.0,3.0,,Providence,Rhode Island,2908.0,1360.0,,301000.0
+96853,for_sale,3.0,3.0,0.34,Johnston,Rhode Island,2919.0,1276.0,,475000.0
+92490,for_sale,2.0,1.0,0.29,Cumberland,Rhode Island,2864.0,1144.0,2016-08-11,285000.0
+96377,for_sale,2.0,2.0,,East Providence,Rhode Island,2915.0,942.0,2018-05-25,239000.0
+95221,for_sale,4.0,3.0,1.86,North Kingstown,Rhode Island,2852.0,3239.0,,799900.0
+95294,for_sale,3.0,3.0,0.15,Pawtucket,Rhode Island,2860.0,1938.0,2013-08-07,279900.0
+92248,for_sale,2.0,1.0,0.11,Woonsocket,Rhode Island,2895.0,1120.0,2016-09-28,225000.0
+94623,for_sale,4.0,3.0,0.39,Barrington,Rhode Island,2806.0,2830.0,1994-08-30,999000.0
+94474,for_sale,3.0,3.0,,Warwick,Rhode Island,2886.0,1180.0,,369000.0
+94487,for_sale,3.0,2.0,0.06,Warren,Rhode Island,2885.0,1097.0,2006-04-18,334900.0
+95732,for_sale,3.0,2.0,1.2,Hopkinton,Rhode Island,2832.0,1468.0,,260000.0
+93804,for_sale,4.0,2.0,0.11,Pawtucket,Rhode Island,2860.0,4570.0,2009-01-23,187000.0
+96324,for_sale,3.0,3.0,1.06,North Kingstown,Rhode Island,2874.0,3375.0,2018-01-19,1390000.0
+94503,for_sale,2.0,2.0,,Johnston,Rhode Island,2919.0,1326.0,,399999.0
+96931,for_sale,4.0,2.0,0.16,Warwick,Rhode Island,2888.0,1564.0,,365000.0
+94593,for_sale,3.0,3.0,0.33,Providence,Rhode Island,2908.0,2724.0,2018-05-10,470000.0
+96848,for_sale,4.0,3.0,0.44,Cumberland,Rhode Island,2864.0,2889.0,2017-06-16,725000.0
+95471,for_sale,4.0,2.0,0.07,Pawtucket,Rhode Island,2860.0,3231.0,,319000.0
+90456,for_sale,3.0,2.0,8.5,Burrillville,Rhode Island,2830.0,3109.0,2019-06-21,1200000.0
+93814,for_sale,2.0,2.0,,Providence,Rhode Island,2906.0,1100.0,2003-04-28,179900.0
+95912,for_sale,9.0,6.0,0.09,Providence,Rhode Island,2903.0,3750.0,2015-04-23,1995999.0
+94881,for_sale,3.0,2.0,0.1,Cranston,Rhode Island,2910.0,1210.0,1998-05-01,249900.0
+94194,for_sale,3.0,3.0,0.18,North Providence,Rhode Island,2904.0,1242.0,1993-12-14,324900.0
+95122,for_sale,2.0,1.0,0.11,Scituate,Rhode Island,2857.0,933.0,,260000.0
+81756,for_sale,3.0,1.0,0.59,Burrillville,Rhode Island,2859.0,1584.0,,265000.0
+94709,for_sale,3.0,2.0,0.22,Glocester,Rhode Island,2814.0,1564.0,,599900.0
+95089,for_sale,3.0,1.0,0.1,Pawtucket,Rhode Island,2860.0,1584.0,1991-10-15,305000.0
+95751,for_sale,4.0,4.0,1.02,East Greenwich,Rhode Island,2818.0,2880.0,,859000.0
+96786,for_sale,3.0,2.0,0.35,Warwick,Rhode Island,2886.0,1512.0,2014-04-15,329900.0
+96746,for_sale,2.0,1.0,0.23,Barrington,Rhode Island,2806.0,972.0,2021-03-15,499000.0
+94026,for_sale,6.0,6.0,0.23,Providence,Rhode Island,2906.0,6469.0,,1495000.0
+94259,for_sale,3.0,3.0,0.93,Smithfield,Rhode Island,2917.0,5378.0,,325000.0
+94443,for_sale,3.0,2.0,0.33,West Warwick,Rhode Island,2893.0,1812.0,2017-08-04,260000.0
+93806,for_sale,3.0,3.0,0.06,Providence,Rhode Island,2909.0,1394.0,1988-11-28,240000.0
+96153,for_sale,3.0,1.0,0.11,Cranston,Rhode Island,2910.0,1781.0,,309900.0
+64681,for_sale,6.0,8.0,66.0,Wassaic,New York,12522.0,,,6900000.0
+65093,for_sale,3.0,2.0,1.01,Amenia,New York,12501.0,2048.0,,340000.0
+66140,for_sale,,,1.88,New Lebanon,New York,12125.0,,,14000.0
+56622,for_sale,,,5.66,Stephentown,New York,12168.0,,,63000.0
+56711,for_sale,3.0,3.0,2.5,Sand Lake,New York,12018.0,3600.0,2001-10-26,675000.0
+57250,for_sale,3.0,2.0,0.99,Hoosick Falls,New York,12090.0,2056.0,,199000.0
+63866,for_sale,5.0,3.0,1.14,Stephentown,New York,12168.0,3092.0,,105000.0
+65231,for_sale,4.0,3.0,0.99,Pine Plains,New York,12567.0,2770.0,,459900.0
+64547,for_sale,3.0,5.0,6.2,Wingdale,New York,12594.0,3606.0,2004-05-18,685000.0
+64651,for_sale,3.0,2.0,3.85,Red Hook,New York,12571.0,1120.0,2016-10-27,315000.0
+64951,for_sale,4.0,4.0,10.1,Red Hook,New York,12571.0,3318.0,2018-03-20,2750000.0
+56144,for_sale,4.0,5.0,18.5,Hillsdale,New York,12529.0,3024.0,1996-12-24,1575000.0
+56608,for_sale,,,113.0,Schodack Landing,New York,12123.0,,,1150000.0
+57485,for_sale,,,1.48,Kinderhook,New York,12184.0,,,79900.0
+64834,for_sale,5.0,2.0,1.03,Wassaic,New York,12592.0,2424.0,1983-07-01,275000.0
+64624,for_sale,2.0,1.0,0.28,Elizaville,New York,12523.0,888.0,2022-01-06,149500.0
+65008,for_sale,3.0,3.0,12.82,Stanfordville,New York,12581.0,3000.0,2001-08-29,759900.0
+62966,for_sale,,,129.0,Stanfordville,New York,12581.0,,2019-04-12,1595000.0
+65953,for_sale,,,22.46,Chatham,New York,12184.0,,,325000.0
+64592,for_sale,,,0.68,Pine Plains,New York,12567.0,2892.0,1987-12-22,265000.0
+56823,for_sale,,,2.67,Hoosick Falls,New York,12090.0,9350.0,2012-10-01,250000.0
+56849,for_sale,5.0,3.0,1.5,Greenville,New York,12405.0,2136.0,,350000.0
+56574,for_sale,,,15.0,Schodack Landing,New York,12123.0,,,125000.0
+57296,for_sale,3.0,3.0,0.37,Valatie,New York,12184.0,1880.0,2015-09-01,389000.0
+64120,for_sale,3.0,2.0,3.9,Canaan,New York,12029.0,2100.0,2019-11-22,349900.0
+65064,for_sale,3.0,3.0,4.9,Copake,New York,12516.0,1708.0,,750000.0
+65972,for_sale,5.0,3.0,0.82,New Lebanon,New York,12125.0,3075.0,2018-07-17,378000.0
+62482,for_sale,3.0,2.0,2.9,Dover Plains,New York,12522.0,2265.0,2013-02-13,395000.0
+65045,for_sale,3.0,2.0,0.47,Pine Plains,New York,12567.0,1788.0,2014-11-24,349500.0
+64567,for_sale,2.0,,125.0,Elizaville,New York,12523.0,1177.0,,495000.0
+57623,for_sale,3.0,2.0,2.63,Johnsonville,New York,12094.0,1334.0,,149900.0
+57714,for_sale,2.0,1.0,0.54,Chatham,New York,12123.0,996.0,2001-05-04,175000.0
+57801,for_sale,4.0,3.0,8.61,East Chatham,New York,12060.0,2891.0,,649900.0
+65822,for_sale,,,88.0,Canaan,New York,12029.0,,,499000.0
+57058,for_sale,3.0,4.0,5.38,New Lebanon,New York,12125.0,2599.0,,725000.0
+58943,for_sale,3.0,2.0,3.79,Copake,New York,12521.0,1560.0,2015-07-28,399000.0
+57570,for_sale,3.0,2.0,0.26,Copake,New York,12516.0,1500.0,1998-12-15,450000.0
+65765,for_sale,,,3.02,Stephentown,New York,12168.0,,,44999.0
+65026,for_sale,5.0,6.0,13.28,Pine Plains,New York,12567.0,,2017-10-14,4995000.0
+65956,for_sale,,,127.49,New Lebanon,New York,12062.0,,,275000.0
+66447,for_sale,3.0,2.0,1.85,Copake Falls,New York,12517.0,1657.0,,439000.0
+65937,for_sale,,,5.59,Claverack,New York,12513.0,,2006-06-01,79900.0
+62774,for_sale,5.0,2.0,45.0,Ancram,New York,12503.0,2263.0,,495000.0
+56712,for_sale,,,1.08,Hoosick Falls,New York,12090.0,,,38000.0
+57172,for_sale,4.0,1.0,1.24,Poestenkill,New York,12140.0,1232.0,,234800.0
+65098,for_sale,3.0,2.0,3.44,Gallatin,New York,12567.0,1562.0,,338000.0
+64993,for_sale,4.0,4.0,54.8,Ancram,New York,12503.0,2400.0,,1675000.0
+64976,for_sale,3.0,2.0,0.47,Dover Plains,New York,12594.0,1564.0,2001-01-17,399900.0
+57171,for_sale,4.0,3.0,1.0,Sand Lake,New York,12018.0,2367.0,2015-10-06,80000.0
+57750,for_sale,4.0,3.0,12.53,Stephentown,New York,12168.0,2400.0,2021-06-22,450000.0
+57272,for_sale,,,2.0,Grafton,New York,12052.0,,2020-06-15,155000.0
+56911,for_sale,4.0,3.0,1.24,Ghent,New York,12075.0,2464.0,,325000.0
+64328,for_sale,,,3.79,Copake,New York,12516.0,,,42000.0
+65793,for_sale,,,73.6,Copake,New York,12517.0,,,140000.0
+66032,for_sale,,,2.5,Austerlitz,New York,12165.0,,,35000.0
+55053,for_sale,,,43.69,Pittstown,New York,12094.0,,2015-08-31,359000.0
+65831,for_sale,,,6.0,Hillsdale,New York,12529.0,,,129000.0
+58836,for_sale,7.0,6.0,134.39,Craryville,New York,12521.0,4035.0,,7950000.0
+57656,for_sale,5.0,4.0,8.95,Old Chatham,New York,12136.0,4278.0,2019-04-01,1300000.0
+65996,for_sale,,,15.87,New Lebanon,New York,12125.0,,,220000.0
+64662,for_sale,4.0,6.0,90.92,Ancram,New York,12502.0,6104.0,2004-05-27,2495000.0
+65040,for_sale,,,61.54,Copake,New York,12516.0,,,2500000.0
+62457,for_sale,3.0,2.0,0.57,Millbrook,New York,12545.0,1440.0,2020-07-14,394000.0
+57556,for_sale,2.0,1.0,126.74,Petersburgh,New York,12138.0,862.0,2010-05-10,299000.0
+65794,for_sale,,,29.16,Nassau,New York,12169.0,,,700000.0
+66431,for_sale,,,1.2,Millerton,New York,12546.0,,1986-12-22,40000.0
+65979,for_sale,,,2.04,Stephentown,New York,12168.0,,,30000.0
+54540,for_sale,4.0,4.0,12.8,Kinderhook,New York,12106.0,1980.0,2007-04-26,649000.0
+65046,for_sale,3.0,3.0,3.0,Ancram,New York,12502.0,2288.0,,549000.0
+62488,for_sale,3.0,2.0,10.9,Clinton Corners,New York,12514.0,1630.0,2020-02-24,595000.0
+65031,for_sale,,,48.0,Red Hook,New York,12571.0,,,349999.0
+57432,for_sale,3.0,2.0,2.02,Sand Lake,New York,12018.0,1787.0,,549900.0
+62932,for_sale,,,123.47,Red Hook,New York,12571.0,,2004-03-09,990000.0
+64172,for_sale,3.0,3.0,5.1,East Chatham,New York,12060.0,1800.0,,499000.0
+64304,for_sale,,,119.2,Clinton Corners,New York,12514.0,,1979-06-05,475000.0
+64400,for_sale,,,51.52,Ghent,New York,12075.0,,,595000.0
+65092,for_sale,3.0,1.0,0.49,Dover Plains,New York,12522.0,1260.0,2018-10-02,239000.0
+66263,for_sale,2.0,1.0,0.17,Ghent,New York,12037.0,1030.0,2018-12-31,219999.0
+56702,for_sale,,,1.54,White Creek,New York,12816.0,,,25000.0
+56779,for_sale,,,94.26,Sand Lake,New York,12018.0,,,425000.0
+65873,for_sale,,,11.28,Hillsdale,New York,12529.0,,,265000.0
+66079,for_sale,,,68.0,Claverack,New York,12534.0,,,269000.0
+64430,for_sale,,,174.72,Pine Plains,New York,12567.0,,,1895000.0
+62922,for_sale,,,6.01,Amenia,New York,12592.0,,2008-01-11,165000.0
+64620,for_sale,,,7.02,Pine Plains,New York,12567.0,,,375000.0
+64619,for_sale,4.0,4.0,1.56,Copake,New York,12521.0,3100.0,1997-11-03,2100000.0
+64380,for_sale,4.0,3.0,0.33,Chatham Village,New York,12037.0,2250.0,2022-01-13,277000.0
+57741,for_sale,4.0,3.0,0.22,Sand Lake,New York,12018.0,2001.0,,399900.0
+65914,for_sale,,,12.0,Claverack,New York,12513.0,,,85000.0
+64895,for_sale,3.0,3.0,6.3,Red Hook,New York,12571.0,3000.0,1999-10-05,692000.0
+65877,for_sale,,,4.1,Hillsdale,New York,12529.0,,,109900.0
+54556,for_sale,3.0,1.0,0.32,Kinderhook,New York,12106.0,1608.0,,299900.0
+56360,for_sale,,,1.27,Hoosick Falls,New York,12090.0,,,19995.0
+56740,for_sale,4.0,1.0,4.79,Sand Lake,New York,12061.0,1607.0,2018-11-27,189900.0
+64671,for_sale,4.0,4.0,3.0,Ghent,New York,12075.0,4179.0,,749000.0
+66089,for_sale,,,358.0,Taghkanic,New York,12521.0,,,1800000.0
+65906,for_sale,,,32.0,Craryville,New York,12513.0,,,500000.0
+64611,for_sale,,,33.13,Taghkanic,New York,12502.0,,,275000.0
+65889,for_sale,5.0,5.0,45.8,Chatham,New York,12060.0,6518.0,1999-05-06,1999500.0
+64532,for_sale,,,128.02,Wassaic,New York,12592.0,,,500000.0
+64489,for_sale,,,16.5,Millbrook,New York,12545.0,,2006-01-27,495000.0
+65823,for_sale,,,32.1,Claverack,New York,12513.0,,,500000.0
+64876,for_sale,3.0,2.0,0.38,Dover,New York,12594.0,1680.0,2006-09-11,299900.0
+56530,for_sale,2.0,1.0,1.1,White Creek,New York,12057.0,2780.0,,144900.0
+55001,for_sale,3.0,2.0,0.2,Berlin,New York,12090.0,1344.0,,61900.0
+64470,for_sale,,,4.84,Gallatin,New York,12571.0,,,125000.0
+65791,for_sale,,,3.3,Caroga,New York,13452.0,,,129000.0
+66353,for_sale,2.0,1.0,1.01,Stephentown,New York,12168.0,960.0,2008-08-22,219900.0
+65787,for_sale,,,22.74,Claverack,New York,12513.0,,,120000.0
+56446,for_sale,,,9.02,Petersburgh,New York,12138.0,,,59900.0
+57352,for_sale,13.0,13.0,,Stephentown,New York,12168.0,2500.0,,2195000.0
+56831,for_sale,,,2.75,Kinderhook,New York,12184.0,,,82500.0
+54535,for_sale,4.0,3.0,2.15,Valatie,New York,12184.0,2248.0,1993-12-06,429900.0
+64947,for_sale,3.0,3.0,0.09,Craryville,New York,12521.0,1320.0,2020-02-28,995000.0
+62948,for_sale,,,0.34,Copake,New York,12516.0,,2009-07-07,32900.0
+64571,for_sale,4.0,2.0,59.69,Millerton,New York,12546.0,1792.0,,660000.0
+66267,for_sale,,,7.9,Canaan,New York,12029.0,,,100000.0
+57273,for_sale,4.0,2.0,5.2,Copake,New York,12516.0,2029.0,,625000.0
+56944,for_sale,,,68.39,Hoosick Falls,New York,12090.0,,,274900.0
+64533,for_sale,,,50.0,Millbrook,New York,12545.0,,,900000.0
+65918,for_sale,,,8.0,Chatham,New York,12136.0,,,135000.0
+56454,for_sale,10.0,5.0,1.0,Schodack Landing,New York,12123.0,5100.0,,295000.0
+64274,for_sale,,,20.12,Taghkanic,New York,12502.0,,,320000.0
+56589,for_sale,5.0,4.0,7.08,Kinderhook,New York,12184.0,1968.0,1993-07-14,640000.0
+64345,for_sale,5.0,3.0,452.0,Wassaic,New York,12592.0,2400.0,,2995000.0
+57174,for_sale,3.0,3.0,0.37,Sand Lake,New York,12018.0,2073.0,2005-06-08,279900.0
+57615,for_sale,,,6.53,Schodack Landing,New York,12132.0,,,144900.0
+56900,for_sale,,,92.0,Kinderhook,New York,12184.0,,,995000.0
+64897,for_sale,3.0,2.0,3.2,Clinton Corners,New York,12514.0,1284.0,1992-02-06,375000.0
+56276,for_sale,4.0,2.0,22.52,Nassau,New York,12123.0,1795.0,,105000.0
+66484,for_sale,,,0.23,Copake,New York,12516.0,,,75000.0
+64368,for_sale,,,127.0,Ancram,New York,12503.0,,,1300000.0
+63596,for_sale,5.0,4.0,100.88,Austerlitz,New York,12017.0,7500.0,,949000.0
+64337,for_sale,4.0,6.0,55.4,Milan,New York,12571.0,8430.0,,8250000.0
+56998,for_sale,4.0,3.0,20.81,Hoosick Falls,New York,12090.0,3900.0,,514900.0
+65170,for_sale,2.0,1.0,5.0,Red Hook,New York,12571.0,916.0,,99000.0
+57034,for_sale,8.0,4.0,0.11,Hoosick Falls,New York,12090.0,5342.0,,143900.0
+64790,for_sale,2.0,1.0,0.77,Dover Plains,New York,12522.0,,,110000.0
+66028,for_sale,,,14.87,Austerlitz,New York,12017.0,,,150000.0
+65072,for_sale,7.0,5.0,9.7,Copake,New York,12528.0,4212.0,,1795000.0
+64572,for_sale,,,24.99,Pine Plains,New York,12571.0,,,379000.0
+66017,for_sale,6.0,4.0,0.77,Canaan,New York,12029.0,5082.0,,279000.0
+54539,for_sale,3.0,1.0,0.32,Niverville,New York,12130.0,1608.0,,299900.0
+65959,for_sale,,,19.68,Hillsdale,New York,12529.0,,2008-06-05,350000.0
+64407,for_sale,,,30.13,Hudson,New York,12534.0,,,1650000.0
+65966,for_sale,,,5.5,New Lebanon,New York,12125.0,,,32000.0
+64281,for_sale,,,50.17,Gallatin,New York,12567.0,,,750000.0
+64296,for_sale,,,17.61,Clinton Corners,New York,12514.0,,2015-12-02,195000.0
+64263,for_sale,,,103.0,Dover,New York,12522.0,,,450000.0
+57766,for_sale,,,,Chatham,New York,12184.0,,,125000.0
+56876,for_sale,4.0,3.0,2.1,Poestenkill,New York,12018.0,5127.0,2019-08-27,549000.0
+65193,for_sale,3.0,2.0,1.2,Millerton,New York,12546.0,1350.0,2018-08-31,375000.0
+66100,for_sale,3.0,2.0,18.7,Chatham,New York,12184.0,1102.0,,350000.0
+64738,for_sale,8.0,5.0,1.7,Amenia,New York,12501.0,4000.0,2019-12-17,749000.0
+66317,for_sale,6.0,3.0,6.0,Chatham,New York,12060.0,3200.0,2004-06-02,549000.0
+56374,for_sale,,,1.0,Poestenkill,New York,12140.0,,,45000.0
+62453,for_sale,3.0,2.0,5.01,East Chatham,New York,12060.0,2504.0,2020-11-09,435000.0
+56599,for_sale,,,2.03,Schodack Landing,New York,12063.0,,2015-10-27,95000.0
+57416,for_sale,4.0,5.0,9.17,Sand Lake,New York,12018.0,2800.0,,875000.0
+65819,for_sale,,,8.4,Chatham,New York,12037.0,,,115000.0
+66299,for_sale,,,33.31,Hillsdale,New York,12529.0,,,429474.0
+62322,for_sale,4.0,3.0,1.29,Nassau,New York,12123.0,2274.0,,194900.0
+63088,for_sale,,,10.0,Hillsdale,New York,12529.0,,,100000.0
+65238,for_sale,4.0,3.0,2.0,Clinton Corners,New York,12514.0,2430.0,1997-12-19,549000.0
+57004,for_sale,2.0,2.0,2.3,Schodack Landing,New York,12123.0,980.0,,229500.0
+56706,for_sale,3.0,3.0,1.87,Poestenkill,New York,12018.0,4622.0,,479000.0
+65762,for_sale,,,2.32,Stephentown,New York,12168.0,,,39000.0
+57048,for_sale,,,5.5,Brunswick,New York,12180.0,,,125000.0
+64244,for_sale,10.0,17.0,200.0,Millbrook,New York,12545.0,34000.0,,14000000.0
+66015,for_sale,,,3.0,Stephentown,New York,12168.0,,2003-10-17,38600.0
+64784,for_sale,2.0,2.0,22.03,Millbrook,New York,12545.0,2198.0,1986-06-23,1400000.0
+57507,for_sale,3.0,3.0,2.16,Poestenkill,New York,12018.0,2159.0,,410000.0
+64445,for_sale,,,6.0,Ancram,New York,12502.0,,,250000.0
+64938,for_sale,5.0,3.0,1.0,Hudson,New York,12534.0,2000.0,2015-02-26,399000.0
+65189,for_sale,3.0,2.0,1.8,Amenia,New York,12501.0,2194.0,2011-12-27,595000.0
+65069,for_sale,5.0,5.0,5.0,Millbrook,New York,12545.0,4500.0,2015-03-26,1450000.0
+64223,for_sale,3.0,2.0,1.0,Chatham,New York,12037.0,2160.0,,349900.0
+56088,for_sale,4.0,2.0,5.2,Copake Falls,New York,12517.0,2029.0,2019-10-23,625000.0
+64280,for_sale,,,25.3,Austerlitz,New York,12017.0,,,495000.0
+62964,for_sale,,,73.04,Claverack,New York,12513.0,,,759000.0
+57334,for_sale,,,43.25,Hoosick Falls,New York,12090.0,,2019-07-18,108000.0
+66044,for_sale,40.0,36.0,1.78,Claverack,New York,12565.0,27443.0,,2850000.0
+57401,for_sale,4.0,1.0,209.0,East Nassau,New York,12062.0,1928.0,,675000.0
+56295,for_sale,,,1.08,Sand Lake,New York,12018.0,,,39000.0
+64969,for_sale,,2.0,3.01,Northeast,New York,12546.0,4512.0,,549900.0
+65845,for_sale,,,1.0,Canaan,New York,12029.0,,,19000.0
+65781,for_sale,,,6.8,New Lebanon,New York,12212.0,,,89000.0
+58868,for_sale,5.0,3.0,0.52,Copake,New York,12521.0,2400.0,2000-06-01,340000.0
+57486,for_sale,2.0,2.0,67.17,Nassau,New York,12123.0,1800.0,,795000.0
+56950,for_sale,,,54.38,Petersburgh,New York,12138.0,,2021-09-22,105000.0
+64364,for_sale,,,50.24,Wassaic,New York,12592.0,,,999000.0
+64185,for_sale,5.0,2.0,16.06,Chatham,New York,12037.0,2639.0,,599000.0
+64936,for_sale,,,4.27,Dover Plains,New York,12522.0,,2002-07-03,105000.0
+65786,for_sale,,,133.74,Canaan,New York,12029.0,,,349000.0
+64688,for_sale,6.0,4.0,319.0,Dover Plains,New York,12522.0,3000.0,,3950000.0
+57597,for_sale,,,2.63,Schodack Landing,New York,12184.0,,,55000.0
+63018,for_sale,,,18.9,Hillsdale,New York,12529.0,,2015-02-25,499000.0
+64638,for_sale,2.0,1.0,2.39,Claverack,New York,12513.0,720.0,2021-03-24,229900.0
+57666,for_sale,,,8.0,Berlin,New York,12022.0,,,64000.0
+56929,for_sale,3.0,2.0,1.25,Sand Lake,New York,12196.0,2000.0,,349900.0
+64763,for_sale,,,0.31,Copake,New York,12516.0,,,19500.0
+65247,for_sale,3.0,4.0,22.59,Pine Plains,New York,12567.0,3072.0,2006-11-15,2880000.0
+57578,for_sale,3.0,1.0,0.24,New Lebanon,New York,12125.0,3048.0,,99900.0
+62219,for_sale,5.0,4.0,2.0,Copake,New York,12517.0,1482.0,,365000.0
+64806,for_sale,4.0,3.0,2.92,Millerton,New York,12546.0,3000.0,2003-06-17,599000.0
+56583,for_sale,,,6.62,Grafton,New York,12082.0,,,74900.0
+64980,for_sale,,,2.88,Pine Plains,New York,12567.0,,,115000.0
+65194,for_sale,5.0,2.0,16.06,Old Chatham,New York,12136.0,2639.0,2016-09-02,599000.0
+66361,for_sale,,1.0,1.9,Chatham,New York,12037.0,8000.0,,599900.0
+64767,for_sale,3.0,2.0,0.25,Chatham,New York,12037.0,1412.0,2005-06-15,239900.0
+57700,for_sale,3.0,3.0,0.22,Sand Lake,New York,12018.0,1965.0,,429900.0
+66591,for_sale,,,1.0,Copake Falls,New York,12517.0,,,75000.0
+65933,for_sale,3.0,2.0,1.1,Ghent,New York,12075.0,1748.0,,299000.0
+62949,for_sale,,,1.4,Red Hook,New York,12571.0,,,50000.0
+64811,for_sale,6.0,5.0,16.05,Amenia,New York,12501.0,,2019-05-10,1765000.0
+55016,for_sale,,,2.4,Schodack Landing,New York,12123.0,,,49000.0
+64222,for_sale,3.0,2.0,1.0,Austerlitz,New York,12037.0,2160.0,2019-12-03,349900.0
+57711,for_sale,,,9.1,Grafton,New York,12138.0,,,39900.0
+64683,for_sale,4.0,5.0,14.73,Millerton,New York,12546.0,4593.0,1991-02-20,1875000.0
+65130,for_sale,,,11.7,Stanford,New York,12581.0,,,185000.0
+64608,for_sale,,,,Pine Plains,New York,12567.0,,,147500.0
+64257,for_sale,,,5.54,Wassaic,New York,12592.0,,,150000.0
+66113,for_sale,3.0,2.0,2.9,East Nassau,New York,12062.0,2780.0,1999-02-25,548000.0
+65973,for_sale,,,9.0,New Lebanon,New York,12029.0,,,60000.0
+64823,for_sale,4.0,3.0,22.04,East Chatham,New York,12060.0,2508.0,,1225000.0
+66511,for_sale,2.0,2.0,0.22,Millerton,New York,12546.0,576.0,,160000.0
+64819,for_sale,3.0,2.0,0.79,Ghent,New York,12037.0,1512.0,,649000.0
+56836,for_sale,3.0,2.0,0.36,Sand Lake,New York,12018.0,1592.0,,205000.0
+64632,for_sale,3.0,3.0,3.0,Northeast,New York,12546.0,1768.0,,299000.0
+57419,for_sale,4.0,5.0,9.17,Sand Lake,New York,12018.0,3773.0,,1100000.0
+56949,for_sale,,,10.0,Hoosick Falls,New York,12090.0,,,42000.0
+65018,for_sale,5.0,5.0,5.5,Copake,New York,12516.0,3380.0,,1695000.0
+64362,for_sale,,,43.46,Copake,New York,12516.0,,,895000.0
+56407,for_sale,3.0,3.0,288.92,White Creek,New York,12057.0,7834.0,,910000.0
+57788,for_sale,4.0,2.0,0.99,East Nassau,New York,12062.0,1767.0,2015-04-27,236000.0
+64543,for_sale,,,6.07,Pine Plains,New York,12567.0,,,75000.0
+64850,for_sale,8.0,10.0,157.0,Chatham,New York,12136.0,14058.0,2009-10-20,15000000.0
+64676,for_sale,4.0,4.0,1.74,Millbrook,New York,12545.0,3250.0,2018-06-08,1290000.0
+62451,for_sale,6.0,8.0,56.62,Elizaville,New York,12523.0,5170.0,2012-01-17,1550000.0
+57287,for_sale,3.0,1.0,0.36,Nassau,New York,12123.0,1218.0,2016-04-06,149900.0
+56572,for_sale,3.0,1.0,0.39,Hoosick Falls,New York,12090.0,1161.0,,49000.0
+64554,for_sale,4.0,3.0,0.99,Dover Plains,New York,12522.0,2418.0,2004-08-26,459000.0
+66569,for_sale,,,1.06,Millerton,New York,12546.0,,2021-10-23,69000.0
+55000,for_sale,,,8.98,Hoosick Falls,New York,12090.0,,,38500.0
+66426,for_sale,7.0,3.0,1.11,New Lebanon,New York,12125.0,3922.0,,259000.0
+64323,for_sale,,,32.0,Ancram,New York,12503.0,,,450000.0
+65033,for_sale,3.0,2.0,4.02,Ghent,New York,12075.0,1762.0,,712000.0
+65169,for_sale,4.0,2.0,7.5,New Lebanon,New York,12125.0,1804.0,,225000.0
+56323,for_sale,,,5.04,Hoosick,New York,12028.0,,,29500.0
+56277,for_sale,,,6.98,Hoosick,New York,12090.0,,,65000.0
